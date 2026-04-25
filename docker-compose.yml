@@ -1,21 +1,27 @@
 services:
   backend:
-    image: python:3.11-slim
-    working_dir: /app/backend
-    command: sh -c "pip install . && uvicorn app.main:app --host 0.0.0.0 --port 8000"
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    image: maoxuan-knowledge-backend:latest
+    restart: unless-stopped
     volumes:
-      - .:/app
-    ports:
-      - "8000:8000"
+      - backend_data:/app/backend/data
+    expose:
+      - "8000"
+
   frontend:
-    image: node:20-slim
-    working_dir: /app/frontend
-    command: sh -c "npm install && npm run dev -- --host 0.0.0.0"
-    volumes:
-      - .:/app
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+      args:
+        VITE_API_BASE_URL: ""
+    image: maoxuan-knowledge-frontend:latest
+    restart: unless-stopped
     ports:
-      - "5173:5173"
-    environment:
-      - VITE_API_BASE_URL=http://localhost:8000
+      - "5173:80"
     depends_on:
       - backend
+
+volumes:
+  backend_data:

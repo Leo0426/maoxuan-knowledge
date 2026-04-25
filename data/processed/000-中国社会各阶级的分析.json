@@ -1,0 +1,268 @@
+{
+    "article": {
+        "id": 1,
+        "title": "中国社会各阶级的分析",
+        "volume": "第一卷",
+        "date_text": "一九二五年十二月一日",
+        "start_date": "1925-12-01",
+        "end_date": null,
+        "source": null
+    },
+    "events": [
+        {
+            "article_id": 1,
+            "title": "五卅运动",
+            "description": "1925年在上海爆发的反帝爱国运动，起因是日本资本家枪杀工人引发群众愤怒。运动迅速扩展为全国范围的罢工、罢课和示威。它标志着中国工人阶级和人民群众反帝斗争的高潮。",
+            "date_text": "一九二五年五月三十日",
+            "start_date": "1925-05-30",
+            "end_date": null,
+            "location": "上海",
+            "importance": 5,
+            "quote": "我们从一九二五年的五卅运动和各地农民运动的经验看来，这个断定是不错的。"
+        },
+        {
+            "article_id": 1,
+            "title": "国共合作与国民党改组",
+            "description": "1922年至1924年间，孙中山在共产党帮助下改组国民党。实行联俄、联共、扶助农工政策，推动革命统一战线形成。这一合作为中国革命提供了新的组织基础。",
+            "date_text": "一九二二年至一九二四年",
+            "start_date": "1922-01-01",
+            "end_date": "1924-12-31",
+            "location": "广州",
+            "importance": 4,
+            "quote": "实行联俄、联共、扶助农工的三大政策。"
+        },
+        {
+            "article_id": 1,
+            "title": "京汉铁路工人大罢工及二七惨案",
+            "description": "1923年京汉铁路工人为争取组织权利举行总罢工。北洋军阀在帝国主义支持下镇压，造成严重伤亡。该事件体现了工人运动由经济斗争向政治斗争的转变。",
+            "date_text": "一九二三年二月七日",
+            "start_date": "1923-02-07",
+            "end_date": null,
+            "location": "京汉铁路沿线",
+            "importance": 4,
+            "quote": "造成了二七惨案。"
+        },
+        {
+            "article_id": 1,
+            "title": "香港上海海员罢工",
+            "description": "1922年香港和上海海员相继举行罢工。工人通过长期斗争迫使帝国主义当局作出让步。罢工体现了工人阶级的组织性和斗争能力。",
+            "date_text": "一九二二年",
+            "start_date": "1922-01-01",
+            "end_date": "1922-12-31",
+            "location": "香港、上海",
+            "importance": 3,
+            "quote": "如海员罢工、铁路罢工……所表现的力量。"
+        },
+        {
+            "article_id": 1,
+            "title": "沙面罢工",
+            "description": "1924年广州沙面工人反对帝国主义限制措施而发动罢工。通过斗争迫使殖民当局取消不合理规定。体现了工人反帝斗争的胜利。",
+            "date_text": "一九二四年七月",
+            "start_date": "1924-07-01",
+            "end_date": null,
+            "location": "广州沙面",
+            "importance": 3,
+            "quote": "沙面罢工……迫使英法帝国主义者取消了新警律。"
+        },
+        {
+            "article_id": 1,
+            "title": "上海香港大罢工",
+            "description": "1925年五卅运动后，上海和香港爆发大规模罢工。参与人数巨大，持续时间长，成为全国反帝运动的重要支柱。展示了工人阶级的领导作用。",
+            "date_text": "一九二五年六月",
+            "start_date": "1925-06-01",
+            "end_date": null,
+            "location": "上海、香港",
+            "importance": 5,
+            "quote": "上海香港两处的大罢工所表现的力量。"
+        }
+    ],
+    "ideas": [
+        {
+            "article_id": 1,
+            "name": "敌友划分原则",
+            "summary": "文章提出革命首先要明确敌人与朋友，这是革命成败的关键。通过阶级分析可以辨别哪些力量应团结，哪些力量应打击。只有正确划分阵营，革命才能取得胜利。该思想成为中国革命战略的基础。",
+            "category": "革命策略",
+            "quote": "谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。"
+        },
+        {
+            "article_id": 1,
+            "name": "农民同盟军",
+            "summary": "毛泽东指出农民是中国无产阶级最广大、最可靠的同盟军。在半殖民地中国，农民占人口多数，是革命的重要力量。忽视农民问题会导致革命失败。该思想突破了以城市工人为中心的传统观念。",
+            "category": "农民问题",
+            "quote": "中国无产阶级的最广大和最忠实的同盟军是农民。"
+        },
+        {
+            "article_id": 1,
+            "name": "阶级结构分析",
+            "summary": "文章系统分析了地主、买办、中产、小资产阶级、半无产阶级和无产阶级的经济地位与政治态度。指出不同阶级在革命中的立场差异。通过这种分析，为革命策略提供理论依据。强调经济基础决定政治态度。",
+            "category": "阶级分析",
+            "quote": "不可不将中国社会各阶级的经济地位及其对于革命的态度，作一个大概的分析。"
+        },
+        {
+            "article_id": 1,
+            "name": "无产阶级领导",
+            "summary": "毛泽东强调工业无产阶级是最先进的阶级，代表新的生产力。尽管人数较少，但其组织性强、斗争性强，应成为革命领导力量。其他阶级需在其领导下行动。该观点确立了革命领导核心。",
+            "category": "革命策略",
+            "quote": "工业无产阶级是我们革命的领导力量。"
+        },
+        {
+            "article_id": 1,
+            "name": "中产阶级动摇",
+            "summary": "民族资产阶级在革命中表现出明显的两面性。既反对帝国主义和军阀，又害怕无产阶级力量壮大。其政治立场不稳定，最终会分化。不能依赖其作为革命主力。",
+            "category": "阶级分析",
+            "quote": "他们对于中国革命具有矛盾的态度。"
+        },
+        {
+            "article_id": 1,
+            "name": "统一战线策略",
+            "summary": "文章提出应团结半无产阶级和小资产阶级作为革命的主要同盟力量。同时对中产阶级保持警惕，争取其左翼。通过建立广泛统一战线，增强革命力量。该思想成为中国革命的重要策略。",
+            "category": "统一战线",
+            "quote": "一切半无产阶级、小资产阶级，是我们最接近的朋友。"
+        }
+    ],
+    "entities": [
+        {
+            "name": "毛泽东",
+            "type": "人物",
+            "description": "中国共产党领导人，提出系统的阶级分析理论和革命战略。"
+        },
+        {
+            "name": "陈独秀",
+            "type": "人物",
+            "description": "中国共产党早期领导人，代表右倾机会主义倾向。"
+        },
+        {
+            "name": "张国焘",
+            "type": "人物",
+            "description": "中国共产党早期领导人，代表“左”倾机会主义倾向。"
+        },
+        {
+            "name": "国民党",
+            "type": "组织",
+            "description": "中国主要政党之一，在大革命时期与共产党合作。"
+        },
+        {
+            "name": "中国共产党",
+            "type": "组织",
+            "description": "中国无产阶级政党，领导中国革命。"
+        },
+        {
+            "name": "帝国主义",
+            "type": "概念",
+            "description": "列强对中国进行政治经济控制的外部势力。"
+        },
+        {
+            "name": "第三国际",
+            "type": "组织",
+            "description": "国际共产主义组织，领导世界无产阶级革命。"
+        },
+        {
+            "name": "国际联盟",
+            "type": "组织",
+            "description": "一战后成立的国际组织，实质服务于帝国主义国家。"
+        },
+        {
+            "name": "五卅运动",
+            "type": "事件",
+            "description": "1925年爆发的全国性反帝爱国运动。"
+        },
+        {
+            "name": "农民阶级",
+            "type": "概念",
+            "description": "中国社会中最广大阶级，是革命的重要力量。"
+        }
+    ],
+    "relations": [
+        {
+            "source_type": "Article",
+            "source_id": 0,
+            "target_type": "Idea",
+            "target_id": 0,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 0,
+            "target_type": "Idea",
+            "target_id": 1,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 0,
+            "target_type": "Idea",
+            "target_id": 2,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 0,
+            "target_type": "Idea",
+            "target_id": 3,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 0,
+            "target_type": "Idea",
+            "target_id": 4,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 0,
+            "target_type": "Idea",
+            "target_id": 5,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Idea",
+            "source_id": 1,
+            "target_type": "Entity",
+            "target_id": "农民阶级",
+            "relation_type": "代表"
+        },
+        {
+            "source_type": "Idea",
+            "source_id": 3,
+            "target_type": "Entity",
+            "target_id": "中国共产党",
+            "relation_type": "代表"
+        },
+        {
+            "source_type": "Event",
+            "source_id": 0,
+            "target_type": "Entity",
+            "target_id": "帝国主义",
+            "relation_type": "反对"
+        },
+        {
+            "source_type": "Event",
+            "source_id": 5,
+            "target_type": "Entity",
+            "target_id": "中国共产党",
+            "relation_type": "领导"
+        },
+        {
+            "source_type": "Entity",
+            "source_id": "陈独秀",
+            "target_type": "Entity",
+            "target_id": "国民党",
+            "relation_type": "支持"
+        },
+        {
+            "source_type": "Entity",
+            "source_id": "张国焘",
+            "target_type": "Entity",
+            "target_id": "中国共产党",
+            "relation_type": "参与"
+        },
+        {
+            "source_type": "Entity",
+            "source_id": "第三国际",
+            "target_type": "Entity",
+            "target_id": "中国共产党",
+            "relation_type": "影响"
+        }
+    ]
+}

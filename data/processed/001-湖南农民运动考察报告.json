@@ -1,0 +1,247 @@
+{
+    "article": {
+        "id": 1,
+        "title": "湖南农民运动考察报告",
+        "volume": "第一卷",
+        "date_text": "一九二七年三月",
+        "start_date": "1927-03-01",
+        "end_date": null,
+        "source": null
+    },
+    "events": [
+        {
+            "article_id": 1,
+            "title": "湖南农民运动调查",
+            "description": "毛泽东于1927年初在湖南五县进行为期三十二天的实地调查，系统了解农民运动的发展情况。通过与农民和农运干部交流，形成对农民革命的全面认识。该调查为文章提供了第一手材料。",
+            "date_text": "一月四日至二月五日",
+            "start_date": "1927-01-04",
+            "end_date": "1927-02-05",
+            "location": "湖南",
+            "importance": 5,
+            "quote": "我这回到湖南，实地考察了湘潭、湘乡、衡山、醴陵、长沙五县的情况。"
+        },
+        {
+            "article_id": 1,
+            "title": "湖南农民运动爆发与发展",
+            "description": "1926年至1927年间，湖南农民运动迅速发展，从组织阶段进入革命阶段。农会会员数量激增，农民群众广泛动员，形成农村大革命局面。农民成为革命的重要力量。",
+            "date_text": "去年一月至今年一月",
+            "start_date": "1926-01-01",
+            "end_date": "1927-01-31",
+            "location": "湖南",
+            "importance": 5,
+            "quote": "在四个月中造成一个空前的农村大革命。"
+        },
+        {
+            "article_id": 1,
+            "title": "北伐战争推动农民运动",
+            "description": "北伐军进入湖南，击溃地方军阀势力，为农民运动提供政治空间。农民借助北伐胜利的契机扩大组织并开展斗争。革命形势因此迅速发展。",
+            "date_text": "一九二六年",
+            "start_date": "1926-01-01",
+            "end_date": "1926-12-31",
+            "location": "中国南方",
+            "importance": 4,
+            "quote": "革命军驱逐赵恒惕，为公开活动时期。"
+        },
+        {
+            "article_id": 1,
+            "title": "辛亥革命的历史教训",
+            "description": "1911年的辛亥革命推翻清朝统治，但未能发动广大农民群众。由于缺乏农村变革，革命成果被军阀篡夺。该事件成为农民运动必要性的历史证明。",
+            "date_text": "一九一一年",
+            "start_date": "1911-01-01",
+            "end_date": "1911-12-31",
+            "location": "中国",
+            "importance": 4,
+            "quote": "辛亥革命没有这个变动，所以失败了。"
+        },
+        {
+            "article_id": 1,
+            "title": "国民党右派反对农民运动",
+            "description": "1927年前后，国民党右派及部分社会阶层对农民运动提出批评甚至攻击。他们认为农民运动“糟得很”或“过分”，试图限制其发展。毛泽东对此进行系统反驳。",
+            "date_text": "一九二七年",
+            "start_date": "1927-01-01",
+            "end_date": "1927-12-31",
+            "location": "长沙等地",
+            "importance": 4,
+            "quote": "无不一言以蔽之曰：‘糟得很。’"
+        },
+        {
+            "article_id": 1,
+            "title": "农民武装与政权建立",
+            "description": "农民通过农会建立基层政权，并接管或改造原有地主武装。梭镖队等农民武装迅速发展，成为农村革命的重要力量。乡村权力结构发生根本变化。",
+            "date_text": "一九二七年",
+            "start_date": "1927-01-01",
+            "end_date": "1927-12-31",
+            "location": "湖南",
+            "importance": 5,
+            "quote": "这种有梭镖的农民，将成为‘挨户团非常备队’。"
+        }
+    ],
+    "ideas": [
+        {
+            "article_id": 1,
+            "name": "农民革命正当性",
+            "summary": "文章强调农民运动是历史发展的必然趋势，是反封建斗争的重要力量。农民的暴力行动虽被批评为过激，但本质上是对长期压迫的反抗。只有承认农民革命的正当性，革命才能取得成功。",
+            "category": "农民问题",
+            "quote": "农民的举动，完全是对的，他们的举动好得很！"
+        },
+        {
+            "article_id": 1,
+            "name": "革命必须依靠农民",
+            "summary": "毛泽东指出农民是中国革命的主要力量，尤其是贫农是最坚定的革命阶级。忽视农民将导致革命孤立和失败。革命必须以农民为基础，发动广大农村群众。",
+            "category": "革命策略",
+            "quote": "贫农大群众，乃是农民协会的中坚。"
+        },
+        {
+            "article_id": 1,
+            "name": "革命暴力必要性",
+            "summary": "文章明确指出革命不是温和改良，而是激烈的阶级斗争。推翻封建地主阶级必须依靠暴力行动。所谓“过分”实际上是革命发展的必然阶段。",
+            "category": "哲学方法论",
+            "quote": "革命是暴动，是一个阶级推翻一个阶级的暴烈的行动。"
+        },
+        {
+            "article_id": 1,
+            "name": "打倒封建权力体系",
+            "summary": "农民革命不仅针对地主经济剥削，还要摧毁政权、族权、神权和夫权等封建结构。通过全面破坏旧秩序，为新民主社会奠定基础。政治斗争是首要任务。",
+            "category": "革命策略",
+            "quote": "政权、族权、神权、夫权，是束缚中国人民的四条极大的绳索。"
+        },
+        {
+            "article_id": 1,
+            "name": "群众路线与启发式领导",
+            "summary": "共产党应引导农民自觉行动，而不是简单替代群众决策。通过教育和实践，让农民逐步觉醒并推动社会变革。这体现了群众路线的基本方法。",
+            "category": "党的建设",
+            "quote": "引而不发，跃如也。"
+        },
+        {
+            "article_id": 1,
+            "name": "政治宣传的重要性",
+            "summary": "农民运动通过简单口号和宣传迅速传播革命思想，使广大农民获得政治觉悟。政治教育在短时间内深入乡村，成为革命成功的重要条件。",
+            "category": "革命策略",
+            "quote": "打倒帝国主义，打倒军阀，打倒土豪劣绅。"
+        }
+    ],
+    "entities": [
+        {
+            "name": "毛泽东",
+            "type": "人物",
+            "description": "中国共产党领导人，本文作者，系统阐述农民革命理论。"
+        },
+        {
+            "name": "湖南",
+            "type": "地点",
+            "description": "中国中部省份，当时农民运动的中心区域。"
+        },
+        {
+            "name": "农民协会",
+            "type": "组织",
+            "description": "农民自发组织的基层革命组织，承担政治、经济和社会管理职能。"
+        },
+        {
+            "name": "土豪劣绅",
+            "type": "概念",
+            "description": "指地方封建地主阶级及其代理人，是农民革命的主要打击对象。"
+        },
+        {
+            "name": "北伐军",
+            "type": "组织",
+            "description": "国民革命军的一部分，推动反军阀战争并促进农民运动发展。"
+        },
+        {
+            "name": "国民党右派",
+            "type": "组织",
+            "description": "国民党内部反对农民运动和共产党合作的保守势力。"
+        },
+        {
+            "name": "贫农",
+            "type": "概念",
+            "description": "农村中最贫困阶层，是农民革命的主力军和领导力量。"
+        },
+        {
+            "name": "封建地主阶级",
+            "type": "概念",
+            "description": "传统土地所有者阶层，掌握政治经济权力并压迫农民。"
+        },
+        {
+            "name": "辛亥革命",
+            "type": "事件",
+            "description": "1911年推翻清朝的资产阶级革命，但未彻底改变社会结构。"
+        },
+        {
+            "name": "三民主义",
+            "type": "概念",
+            "description": "孙中山提出的政治纲领，被农民作为斗争口号广泛传播。"
+        }
+    ],
+    "relations": [
+        {
+            "source_type": "Article",
+            "source_id": 1,
+            "target_type": "Idea",
+            "target_id": 0,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 1,
+            "target_type": "Event",
+            "target_id": 0,
+            "relation_type": "发生于"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 1,
+            "target_type": "Entity",
+            "target_id": "毛泽东",
+            "relation_type": "属于"
+        },
+        {
+            "source_type": "Idea",
+            "source_id": 0,
+            "target_type": "Entity",
+            "target_id": "农民协会",
+            "relation_type": "支持"
+        },
+        {
+            "source_type": "Idea",
+            "source_id": 1,
+            "target_type": "Entity",
+            "target_id": "贫农",
+            "relation_type": "代表"
+        },
+        {
+            "source_type": "Idea",
+            "source_id": 3,
+            "target_type": "Entity",
+            "target_id": "封建地主阶级",
+            "relation_type": "反对"
+        },
+        {
+            "source_type": "Event",
+            "source_id": 1,
+            "target_type": "Entity",
+            "target_id": "湖南",
+            "relation_type": "发生于"
+        },
+        {
+            "source_type": "Event",
+            "source_id": 2,
+            "target_type": "Entity",
+            "target_id": "北伐军",
+            "relation_type": "参与"
+        },
+        {
+            "source_type": "Event",
+            "source_id": 4,
+            "target_type": "Entity",
+            "target_id": "国民党右派",
+            "relation_type": "参与"
+        },
+        {
+            "source_type": "Idea",
+            "source_id": 5,
+            "target_type": "Entity",
+            "target_id": "三民主义",
+            "relation_type": "引用"
+        }
+    ]
+}

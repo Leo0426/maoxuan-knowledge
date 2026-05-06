@@ -1,0 +1,229 @@
+{
+  "article": {
+    "id": 10,
+    "title": "关心群众生活，注意工作方法",
+    "volume": "第一卷",
+    "date_text": "一九三四年一月二十七日",
+    "start_date": "1934-01-27",
+    "end_date": "1934-01-27",
+    "source": "第二次全国工农兵代表大会结论的一部分"
+  },
+  "events": [
+    {
+      "article_id": 10,
+      "title": "第二次全国工农兵代表大会召开",
+      "description": "1934年1月，中华苏维埃共和国在江西瑞金召开第二次全国工农兵代表大会。毛泽东在大会上强调群众生活与革命战争的统一关系，并提出改进工作方法的重要性。大会旨在巩固苏区建设与革命战争动员。",
+      "date_text": "一九三四年一月二十二日至二月一日",
+      "start_date": "1934-01-22",
+      "end_date": "1934-02-01",
+      "location": "江西瑞金",
+      "importance": 5,
+      "quote": "我们现在的中心任务是动员广大群众参加革命战争。"
+    },
+    {
+      "article_id": 10,
+      "title": "汀州市政府脱离群众问题",
+      "description": "汀州市政府一度只关注扩大红军和运输动员，而忽视群众实际生活困难。由于群众问题长期得不到解决，工农代表会议难以维持，革命动员工作也受到严重影响。毛泽东以此批评官僚主义作风。",
+      "date_text": "以前有一个时期",
+      "start_date": null,
+      "end_date": null,
+      "location": "福建汀州",
+      "importance": 4,
+      "quote": "对于群众生活问题一点不理。"
+    },
+    {
+      "article_id": 10,
+      "title": "长冈乡与才溪乡群众工作实践",
+      "description": "江西长冈乡与福建才溪乡通过积极解决群众住房、粮食、救济等问题，获得群众真诚拥护。当地红军扩充、公债推销等工作取得显著成绩。毛泽东将其树立为群众路线的典型。",
+      "date_text": "一九三三年至一九三四年间",
+      "start_date": "1933-01-01",
+      "end_date": "1934-01-27",
+      "location": "江西兴国、福建上杭",
+      "importance": 5,
+      "quote": "共产党真正好，什么事情都替我们想到了。"
+    },
+    {
+      "article_id": 10,
+      "title": "国民党第五次围剿与堡垒政策",
+      "description": "蒋介石在第五次“围剿”中推行碉堡封锁政策，试图通过堡垒体系压缩革命根据地。毛泽东指出，真正的铜墙铁壁是人民群众，而非军事工事。文章强调人民战争思想能够战胜反革命堡垒。",
+      "date_text": "一九三三年六月至一九三四年一月",
+      "start_date": "1933-06-01",
+      "end_date": "1934-01-31",
+      "location": "江西革命根据地周围",
+      "importance": 5,
+      "quote": "真正的铜墙铁壁是什么？是群众。"
+    },
+    {
+      "article_id": 10,
+      "title": "中央苏区扩大红军运动",
+      "description": "中央苏区各地积极动员群众参加红军。长冈乡与才溪乡因群众基础深厚，参军比例极高，成为革命动员典范。毛泽东强调革命战争必须建立在群众支持基础之上。",
+      "date_text": "一九三三年至一九三四年",
+      "start_date": "1933-01-01",
+      "end_date": "1934-01-27",
+      "location": "中央革命根据地",
+      "importance": 4,
+      "quote": "只有动员群众才能进行战争。"
+    }
+  ],
+  "ideas": [
+    {
+      "article_id": 10,
+      "name": "群众生活路线",
+      "summary": "毛泽东提出革命不仅是军事斗争，还必须解决群众现实生活问题。群众的吃饭、住房、医疗、教育等问题都应纳入革命政府的工作内容。只有真正满足群众需求，革命才能获得稳定支持。群众路线被明确为革命胜利的重要基础。",
+      "category": "统一战线",
+      "quote": "一切群众的实际生活问题，都是我们应当注意的问题。"
+    },
+    {
+      "article_id": 10,
+      "name": "革命战争依靠群众",
+      "summary": "文章强调革命战争本质上是群众战争。革命力量必须通过组织群众、发动群众、依靠群众才能形成持续战斗力。脱离群众的战争动员无法长期维持。群众支持被视为战争胜负的决定性因素。",
+      "category": "革命策略",
+      "quote": "革命战争是群众的战争，只有动员群众才能进行战争。"
+    },
+    {
+      "article_id": 10,
+      "name": "反对官僚主义",
+      "summary": "毛泽东批评只重军事指标、不关心群众生活的官僚主义作风。他指出命令主义和脱离群众会导致革命工作失败。革命干部必须深入群众、解决具体问题，而不能停留在口号层面。",
+      "category": "党的建设",
+      "quote": "反对官僚主义的工作方法而采取实际的具体的工作方法。"
+    },
+    {
+      "article_id": 10,
+      "name": "工作方法论",
+      "summary": "文章提出任务与方法必须统一。革命目标只有通过具体、细致、可执行的方法才能完成。毛泽东以“过河需要桥和船”为比喻，说明方法论的重要性。工作不仅要有方向，更要有落实机制。",
+      "category": "哲学方法论",
+      "quote": "我们的任务是过河，但是没有桥或没有船就不能过。"
+    },
+    {
+      "article_id": 10,
+      "name": "人民铜墙铁壁",
+      "summary": "毛泽东提出真正不可战胜的力量不是军事工事，而是人民群众的支持。革命政权只要获得群众真心拥护，就能够战胜任何反革命力量。这一思想后来发展为人民战争理论的重要组成部分。",
+      "category": "军事思想",
+      "quote": "真正的铜墙铁壁是什么？是群众。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党领导人，提出群众路线和人民战争思想的重要理论家。"
+    },
+    {
+      "name": "长冈乡",
+      "type": "地点",
+      "description": "江西兴国县的乡村，被毛泽东树立为群众工作与战争动员的模范。"
+    },
+    {
+      "name": "才溪乡",
+      "type": "地点",
+      "description": "福建上杭县的革命乡村，是中央苏区群众路线实践的重要典型。"
+    },
+    {
+      "name": "汀州市政府",
+      "type": "组织",
+      "description": "中央苏区地方政权组织，曾因忽视群众生活而受到批评。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国国民党政权，在土地革命战争时期对革命根据地发动围剿。"
+    },
+    {
+      "name": "红军",
+      "type": "组织",
+      "description": "中国共产党领导的革命武装力量，是土地革命战争时期的核心军事力量。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，第五次围剿和堡垒政策的推动者。"
+    },
+    {
+      "name": "第二次全国工农兵代表大会",
+      "type": "事件",
+      "description": "1934年在江西瑞金召开的重要苏维埃政权会议。"
+    },
+    {
+      "name": "第五次围剿",
+      "type": "事件",
+      "description": "国民党针对中央革命根据地发动的大规模军事围剿行动。"
+    },
+    {
+      "name": "群众路线",
+      "type": "概念",
+      "description": "中国共产党强调依靠群众、服务群众的政治工作路线。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 10,
+      "target_type": "Idea",
+      "target_id": 0,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 10,
+      "target_type": "Entity",
+      "target_id": "群众路线",
+      "relation_type": "代表"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "毛泽东",
+      "target_type": "Article",
+      "target_id": 10,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "第二次全国工农兵代表大会",
+      "relation_type": "属于"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "蒋介石",
+      "target_type": "Event",
+      "target_id": 4,
+      "relation_type": "领导"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "国民党",
+      "target_type": "Event",
+      "target_id": 4,
+      "relation_type": "参与"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "长冈乡",
+      "target_type": "Idea",
+      "target_id": 0,
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "才溪乡",
+      "target_type": "Idea",
+      "target_id": 0,
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 10,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "批判"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 10,
+      "target_type": "Event",
+      "target_id": 4,
+      "relation_type": "引用"
+    }
+  ]
+}

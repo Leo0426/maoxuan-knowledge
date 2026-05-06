@@ -1,0 +1,283 @@
+{
+  "article": {
+    "id": 17,
+    "title": "矛盾论",
+    "volume": "第一卷",
+    "date_text": "一九三七年八月",
+    "start_date": "1937-08-01",
+    "end_date": "1937-08-31",
+    "source": "延安抗日军事政治大学讲演"
+  },
+  "events": [
+    {
+      "article_id": 17,
+      "title": "苏联哲学界批判德波林学派",
+      "description": "苏联哲学界在三十年代初对德波林学派展开批判，认为其理论脱离实践、哲学脱离政治，带有唯心主义倾向。毛泽东借此反思中国共产党内部的教条主义问题，并将其作为写作《矛盾论》的重要背景之一。这场思想斗争推动了马克思主义哲学中国化的发展。",
+      "date_text": "最近数年中",
+      "start_date": "1930-01-01",
+      "end_date": "1933-12-31",
+      "location": "苏联",
+      "importance": 4,
+      "quote": "苏联哲学界在最近数年中批判了德波林学派的唯心论。"
+    },
+    {
+      "article_id": 17,
+      "title": "十月社会主义革命",
+      "description": "1917年俄国十月革命建立了世界上第一个社会主义国家。毛泽东将其视为世界历史的新纪元，强调其对中国革命和世界革命的深刻影响。文章借此说明外因必须通过内因起作用的辩证法原理。",
+      "date_text": "十月社会主义革命",
+      "start_date": "1917-11-07",
+      "end_date": "1917-11-07",
+      "location": "俄国",
+      "importance": 5,
+      "quote": "十月社会主义革命不只是开创了俄国历史的新纪元，而且开创了世界历史的新纪元。"
+    },
+    {
+      "article_id": 17,
+      "title": "辛亥革命",
+      "description": "辛亥革命推翻了清朝统治，结束了中国数千年的君主专制制度。毛泽东在文中将其作为中国民主革命阶段性变化的重要节点，用来说明矛盾发展的阶段性与主要矛盾的变化。",
+      "date_text": "辛亥革命",
+      "start_date": "1911-10-10",
+      "end_date": "1912-02-12",
+      "location": "中国",
+      "importance": 5,
+      "quote": "统治中国将近三百年的清朝帝国，曾在辛亥革命时期被打倒。"
+    },
+    {
+      "article_id": 17,
+      "title": "第一次国共合作与北伐战争",
+      "description": "1924年至1927年间，国共两党建立统一战线，共同推进北伐战争。毛泽东通过分析这一时期国共关系的变化，说明矛盾双方在不同条件下既联合又斗争的复杂关系。",
+      "date_text": "一九二四年至一九二七年的革命",
+      "start_date": "1924-01-01",
+      "end_date": "1927-07-15",
+      "location": "中国",
+      "importance": 5,
+      "quote": "共产党和国民党联合的南方革命势力，曾经由弱小的力量变得强大起来。"
+    },
+    {
+      "article_id": 17,
+      "title": "蒋介石发动反革命政变",
+      "description": "1927年蒋介石发动反革命政变，第一次国共合作破裂，中国革命遭受重大挫折。毛泽东将其作为矛盾转化与内部机会主义导致失败的重要案例。",
+      "date_text": "一九二七年",
+      "start_date": "1927-04-12",
+      "end_date": "1927-04-12",
+      "location": "上海",
+      "importance": 5,
+      "quote": "一九二七年的蒋介石的叛变，是分化革命阵线的例子。"
+    },
+    {
+      "article_id": 17,
+      "title": "中国工农红军长征",
+      "description": "红军长征是在国民党军事围剿下进行的战略转移。毛泽东将长征作为困难与顺利相互转化的典型例证，说明矛盾双方在斗争中不断变化。",
+      "date_text": "长征",
+      "start_date": "1934-10-01",
+      "end_date": "1936-10-22",
+      "location": "中国",
+      "importance": 5,
+      "quote": "中国红军在长征中的情形，都是如此。"
+    },
+    {
+      "article_id": 17,
+      "title": "西安事变",
+      "description": "1936年西安事变推动了国共两党由对立走向合作。毛泽东借此说明矛盾双方在特定条件下能够发生转化，并形成新的统一战线。",
+      "date_text": "一九三六年十二月西安事变",
+      "start_date": "1936-12-12",
+      "end_date": "1936-12-25",
+      "location": "西安",
+      "importance": 5,
+      "quote": "一九三六年十二月西安事变后又开始向停止内战、联合共产党共同反对日本帝国主义这个方面转变。"
+    },
+    {
+      "article_id": 17,
+      "title": "全面抗日战争爆发",
+      "description": "日本帝国主义全面侵华后，中国社会主要矛盾转变为中华民族与日本帝国主义之间的矛盾。毛泽东通过这一现实案例阐释主要矛盾与次要矛盾的转化规律。",
+      "date_text": "目前的中日战争",
+      "start_date": "1937-07-07",
+      "end_date": "1945-09-02",
+      "location": "中国",
+      "importance": 5,
+      "quote": "帝国主义和这种国家之间的矛盾成为主要的矛盾。"
+    }
+  ],
+  "ideas": [
+    {
+      "article_id": 17,
+      "name": "矛盾普遍性",
+      "summary": "毛泽东认为矛盾存在于一切事物和一切发展过程中，没有矛盾就没有世界。矛盾不仅存在于自然界，也存在于社会和思想领域。矛盾贯穿事物发展的始终，是推动运动和变化的根本动力。理解这一点，是掌握唯物辩证法的基础。",
+      "category": "哲学方法论",
+      "quote": "没有什么事物是不包含矛盾的，没有矛盾就没有世界。"
+    },
+    {
+      "article_id": 17,
+      "name": "矛盾特殊性",
+      "summary": "毛泽东强调不同事物、不同阶段、不同矛盾都有其特殊性质。只有具体分析具体问题，才能真正理解事物本质并找到正确解决方法。反对脱离现实、套用抽象公式的教条主义，是这一思想的重要目标。",
+      "category": "哲学方法论",
+      "quote": "马克思主义的最本质的东西，马克思主义的活的灵魂，就在于具体地分析具体的情况。"
+    },
+    {
+      "article_id": 17,
+      "name": "主要矛盾",
+      "summary": "在复杂事物中，总有一种矛盾居于主导地位，并影响其他矛盾的发展。革命实践必须抓住主要矛盾，才能找到问题核心。不同历史阶段主要矛盾会发生变化，因此战略策略也必须随之调整。",
+      "category": "革命策略",
+      "quote": "捉住了这个主要矛盾，一切问题就迎刃而解了。"
+    },
+    {
+      "article_id": 17,
+      "name": "矛盾转化",
+      "summary": "矛盾双方既对立又统一，在一定条件下能够互相转化。旧事物能够转变为新事物，被压迫者能够转化为统治者。社会革命、新旧制度更替以及战争与和平的变化，都体现了这一规律。",
+      "category": "哲学方法论",
+      "quote": "矛盾着的双方，依据一定的条件，各向着其相反的方面转化。"
+    },
+    {
+      "article_id": 17,
+      "name": "内因外因论",
+      "summary": "毛泽东提出事物发展的根本原因在内部矛盾，而外因只是变化的条件。外因必须通过内因才能发挥作用。革命胜负、社会变化以及国家发展，都取决于内部条件是否成熟。",
+      "category": "哲学方法论",
+      "quote": "外因是变化的条件，内因是变化的根据，外因通过内因而起作用。"
+    },
+    {
+      "article_id": 17,
+      "name": "对抗与非对抗",
+      "summary": "毛泽东指出，对抗只是矛盾斗争的一种形式，并非所有矛盾都具有对抗性。在不同社会制度和不同历史条件下，矛盾可能由非对抗发展为对抗，也可能由对抗转变为非对抗。社会主义条件下的大部分内部矛盾可以通过非对抗方式解决。",
+      "category": "党的建设",
+      "quote": "对抗是矛盾斗争的一种形式，而不是矛盾斗争的一切形式。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党主要领导人，《矛盾论》作者，系统阐述了唯物辩证法中的矛盾理论。"
+    },
+    {
+      "name": "列宁",
+      "type": "人物",
+      "description": "俄国革命家和马克思主义理论家，对辩证法和矛盾理论作出重要发展。"
+    },
+    {
+      "name": "马克思",
+      "type": "人物",
+      "description": "马克思主义创始人之一，提出历史唯物主义和辩证唯物主义理论。"
+    },
+    {
+      "name": "恩格斯",
+      "type": "人物",
+      "description": "马克思主义创始人之一，在《反杜林论》中系统阐述辩证法。"
+    },
+    {
+      "name": "斯大林",
+      "type": "人物",
+      "description": "苏联领导人和马克思主义理论家，推动列宁主义体系化。"
+    },
+    {
+      "name": "德波林",
+      "type": "人物",
+      "description": "苏联哲学家，其学派因唯心主义倾向而遭到批判。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国工人阶级先锋队，在中国革命中领导反帝反封建斗争。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近代重要政党，在不同历史阶段与共产党既合作又斗争。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "概念",
+      "description": "近代日本军国主义侵略扩张体系，是中国抗日战争时期的主要敌人。"
+    },
+    {
+      "name": "唯物辩证法",
+      "type": "概念",
+      "description": "马克思主义哲学核心方法论，强调矛盾运动与对立统一规律。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 17,
+      "target_type": "Idea",
+      "target_id": 0,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 17,
+      "target_type": "Entity",
+      "target_id": "唯物辩证法",
+      "relation_type": "代表"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "毛泽东",
+      "target_type": "Article",
+      "target_id": 17,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "列宁",
+      "target_type": "Idea",
+      "target_id": 0,
+      "relation_type": "影响"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "马克思",
+      "target_type": "Entity",
+      "target_id": "唯物辩证法",
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "恩格斯",
+      "target_type": "Entity",
+      "target_id": "唯物辩证法",
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "中国共产党",
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "反对"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "国民党",
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "反对"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 7,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "反对"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 6,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "影响"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 17,
+      "target_type": "Entity",
+      "target_id": "列宁",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 17,
+      "target_type": "Entity",
+      "target_id": "马克思",
+      "relation_type": "引用"
+    }
+  ]
+}

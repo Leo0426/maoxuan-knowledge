@@ -51,6 +51,19 @@ export default function GraphView({
         categories,
         force: { repulsion: 120, edgeLength: 80 },
         label: { show: true, position: "right", formatter: "{b}", fontSize: 11 },
+        lineStyle: {
+          color: "#9f8f72",
+          opacity: 0.72,
+          width: 1.4,
+          curveness: 0.12,
+        },
+        emphasis: {
+          focus: "adjacency",
+          lineStyle: {
+            opacity: 1,
+            width: 2.4,
+          },
+        },
         data: graph.nodes.map((node) => ({
           id: node.id,
           name: node.name,
@@ -66,6 +79,9 @@ export default function GraphView({
           source: edge.source,
           target: edge.target,
           label: { show: false, formatter: edge.relation_type },
+          lineStyle: {
+            curveness: 0.12,
+          },
         })),
       },
     ],

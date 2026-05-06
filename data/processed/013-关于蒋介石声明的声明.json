@@ -1,0 +1,285 @@
+{
+  "article": {
+    "id": 13,
+    "title": "关于蒋介石声明的声明",
+    "volume": "第一卷",
+    "date_text": "一九三六年十二月二十八日",
+    "start_date": "1936-12-28",
+    "end_date": "1936-12-28",
+    "source": null
+  },
+  "events": [
+    {
+      "article_id": 13,
+      "title": "西安事变和平解决",
+      "description": "张学良、杨虎城发动西安事变后，中国共产党主张和平解决，反对扩大内战。蒋介石最终接受联共抗日条件并恢复自由，推动了国内政治局势向抗日统一方向转变。文章将其视为蒋介石十年错误政策开始转变的重要标志。",
+      "date_text": "一九三六年十二月",
+      "start_date": "1936-12-12",
+      "end_date": "1936-12-24",
+      "location": "西安",
+      "importance": 5,
+      "quote": "共产党在西安事变中主张和平解决，并为此而作了种种努力，全系由民族生存的观点出发。"
+    },
+    {
+      "article_id": 13,
+      "title": "蒋介石发表《对张杨的训词》",
+      "description": "蒋介石在离开西安后于洛阳发表声明，试图解释西安事变及其立场。毛泽东认为该声明内容含糊，未能真正回应人民关于停止内战、联合抗日的要求。",
+      "date_text": "一九三六年十二月二十六日",
+      "start_date": "1936-12-26",
+      "end_date": "1936-12-26",
+      "location": "洛阳",
+      "importance": 3,
+      "quote": "十二月二十六日的声明，是不能满足中国人民大众的要求的。"
+    },
+    {
+      "article_id": 13,
+      "title": "全国抗日救亡运动高涨",
+      "description": "文章指出，全国人民、各省实力派、国民党左派及西北革命人民的抗日怒潮不断高涨，形成推动西安事变的重要背景。抗日民族统一战线逐渐成为社会主流诉求。",
+      "date_text": "一九三六年",
+      "start_date": "1936-01-01",
+      "end_date": "1936-12-31",
+      "location": "中国",
+      "importance": 4,
+      "quote": "全国人民的抗日怒潮的高涨。"
+    },
+    {
+      "article_id": 13,
+      "title": "南京讨伐派策动内战",
+      "description": "西安事变后，以汪精卫、何应钦为代表的亲日派主张讨伐张学良、杨虎城，企图借机发动大规模内战，并争夺国民党内部权力。共产党认为这一阴谋有利于日本帝国主义。",
+      "date_text": "一九三六年十二月",
+      "start_date": "1936-12-12",
+      "end_date": "1936-12-31",
+      "location": "南京",
+      "importance": 4,
+      "quote": "日本帝国主义和中国讨伐派汪精卫、何应钦等的阴谋。"
+    },
+    {
+      "article_id": 13,
+      "title": "共产党提出抗日民族统一战线",
+      "description": "中国共产党明确提出停止内战、联合抗日、建立民主共和国等主张，并通过致国民党公开信推动第二次国共合作。该政策成为和平解决西安事变的重要政治基础。",
+      "date_text": "一九三六年八月二十五日",
+      "start_date": "1936-08-25",
+      "end_date": "1936-08-25",
+      "location": "中国",
+      "importance": 5,
+      "quote": "共产党早已于八月二十五日致国民党书中将此种赞助的诺言许给蒋氏和国民党了。"
+    }
+  ],
+  "ideas": [
+    {
+      "article_id": 13,
+      "name": "和平解决事变",
+      "summary": "文章强调西安事变应以和平方式解决，而不应扩大为全国性内战。共产党从民族生存和抗日大局出发，反对任何有利于日本帝国主义的内战行为。和平解决不仅保障了蒋介石安全，也为建立抗日统一战线创造了条件。作者将其视为符合全国人民利益的正确路线。",
+      "category": "统一战线",
+      "quote": "共产党在西安事变中主张和平解决，并为此而作了种种努力。"
+    },
+    {
+      "article_id": 13,
+      "name": "停止内战抗日",
+      "summary": "文章要求国民党放弃“攘外必先安内”政策，停止剿共，联合红军共同抗日。作者认为中国当前最大矛盾是民族危机，而非国内政治斗争。只有结束内战，才能集中力量抵御日本侵略。",
+      "category": "革命策略",
+      "quote": "停止“剿共”政策，联合红军抗日。"
+    },
+    {
+      "article_id": 13,
+      "name": "建立统一战线",
+      "summary": "文章系统提出改组国民党和国民政府、吸收抗日力量、召开救国会议等要求。其核心目标是在全国范围建立抗日民族统一战线，实现各党派、各阶层共同抗日。共产党愿意在这一基础上与国民党合作。",
+      "category": "统一战线",
+      "quote": "召集各党各派各界各军的救国会议，决定抗日救亡方针。"
+    },
+    {
+      "article_id": 13,
+      "name": "批判亲日派",
+      "summary": "文章将汪精卫、何应钦等人定义为亲日派和讨伐派，认为其企图利用西安事变发动内战，实际上服务于日本帝国主义利益。作者强调亲日路线将导致国家危亡。",
+      "category": "国际形势",
+      "quote": "日本帝国主义和中国讨伐派的失望，已显而易见。"
+    },
+    {
+      "article_id": 13,
+      "name": "人民监督政治",
+      "summary": "文章强调全国人民将监督蒋介石是否真正兑现抗日承诺。若继续拖延或打折扣，人民革命浪潮将进一步高涨。作者借“言必信，行必果”要求国民党兑现承诺。",
+      "category": "其他",
+      "quote": "全国人民将不容许蒋氏再有任何游移和打折扣的余地。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，西安事变后被迫接受停止内战、联合抗日的条件。"
+    },
+    {
+      "name": "张学良",
+      "type": "人物",
+      "description": "东北军领导人，西安事变主要发动者之一，主张联共抗日。"
+    },
+    {
+      "name": "杨虎城",
+      "type": "人物",
+      "description": "第十七路军领导人，西安事变主要发动者之一，支持抗日民族统一战线。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "主张建立抗日民族统一战线，在西安事变中推动和平解决。"
+    },
+    {
+      "name": "西安事变",
+      "type": "事件",
+      "description": "1936年张学良、杨虎城扣押蒋介石，要求停止内战一致抗日的重大政治事件。"
+    },
+    {
+      "name": "汪精卫",
+      "type": "人物",
+      "description": "国民党亲日派代表人物，主张讨伐张学良、杨虎城。"
+    },
+    {
+      "name": "何应钦",
+      "type": "人物",
+      "description": "国民党军政高层人物，西安事变期间积极策划军事讨伐。"
+    },
+    {
+      "name": "抗日民族统一战线",
+      "type": "概念",
+      "description": "中国共产党提出的联合各党派、各阶层共同抗日的政治路线。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "侵略中国的主要外部势力，被视为中华民族最大敌人。"
+    },
+    {
+      "name": "宋子文",
+      "type": "人物",
+      "description": "国民党亲美派人物，在西安事变中主张和平解决。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 13,
+      "target_type": "Event",
+      "target_id": 1,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 13,
+      "target_type": "Idea",
+      "target_id": 1,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 13,
+      "target_type": "Idea",
+      "target_id": 2,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 13,
+      "target_type": "Idea",
+      "target_id": 3,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 13,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "批判"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 13,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "张学良",
+      "relation_type": "领导"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "杨虎城",
+      "relation_type": "领导"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "参与"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "中国共产党",
+      "target_type": "Entity",
+      "target_id": "抗日民族统一战线",
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "汪精卫",
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "何应钦",
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "蒋介石",
+      "target_type": "Entity",
+      "target_id": "抗日民族统一战线",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "西安事变",
+      "relation_type": "影响"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 2,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "反对"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 4,
+      "target_type": "Entity",
+      "target_id": "汪精卫",
+      "relation_type": "参与"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 4,
+      "target_type": "Entity",
+      "target_id": "何应钦",
+      "relation_type": "参与"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 13,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "批判"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "article": {
+    "id": 16,
+    "title": "实践论",
+    "volume": "第一卷",
+    "date_text": "一九三七年七月",
+    "start_date": "1937-07-01",
+    "end_date": "1937-07-31",
+    "source": null
+  },
+  "events": [
+    {
+      "article_id": 16,
+      "title": "中国革命受教条主义错误影响",
+      "description": "1931年至1934年间，党内教条主义错误严重影响中国革命。部分同志脱离中国革命实际，机械照搬马克思主义文本，导致革命遭受重大损失。毛泽东撰写《实践论》旨在批判这种脱离实践的主观主义倾向。",
+      "date_text": "一九三一年至一九三四年",
+      "start_date": "1931-01-01",
+      "end_date": "1934-12-31",
+      "location": "中国",
+      "importance": 5,
+      "quote": "这两类同志的错误思想，特别是教条主义思想，曾经在一九三一年至一九三四年使得中国革命受了极大的损失。"
+    },
+    {
+      "article_id": 16,
+      "title": "五四运动",
+      "description": "1919年爆发的五四运动是中国反帝反封建的爱国运动。运动推动中国人民从感性排外认识提升到对帝国主义本质的理性认识。马克思主义也借此开始广泛传播。",
+      "date_text": "一九一九年五月四日",
+      "start_date": "1919-05-04",
+      "end_date": "1919-05-04",
+      "location": "北京",
+      "importance": 5,
+      "quote": "这种认识是从一九一九年五四运动前后才开始的。"
+    },
+    {
+      "article_id": 16,
+      "title": "太平天国运动",
+      "description": "太平天国运动被毛泽东作为中国人民早期反帝斗争感性阶段的例证。其排外主义具有反抗外国侵略的性质，但尚未形成对帝国主义本质的系统认识。",
+      "date_text": null,
+      "start_date": "1851-01-01",
+      "end_date": "1864-07-19",
+      "location": "中国",
+      "importance": 3,
+      "quote": "表现在太平天国运动和义和团运动等笼统的排外主义的斗争上。"
+    },
+    {
+      "article_id": 16,
+      "title": "义和团运动",
+      "description": "义和团运动体现了中国人民对帝国主义压迫的早期反抗。毛泽东认为这一阶段仍停留于感性和表面的认识，没有形成对帝国主义内部矛盾和社会结构的理性分析。",
+      "date_text": null,
+      "start_date": "1899-01-01",
+      "end_date": "1901-09-07",
+      "location": "中国",
+      "importance": 3,
+      "quote": "表现在太平天国运动和义和团运动等笼统的排外主义的斗争上。"
+    },
+    {
+      "article_id": 16,
+      "title": "土地革命战争",
+      "description": "毛泽东以中国土地革命战争为例说明认识来源于实践。战争领导者通过大量胜仗与败仗经验，逐步掌握战争规律，实现从感性经验到理性认识的飞跃。",
+      "date_text": "过去十年的土地革命战争",
+      "start_date": "1927-01-01",
+      "end_date": "1937-07-01",
+      "location": "中国",
+      "importance": 4,
+      "quote": "由于这些经验（胜仗，特别是败仗的经验），使他们能够理解贯串整个战争的内部的东西。"
+    },
+    {
+      "article_id": 16,
+      "title": "延安抗日军政大学讲演",
+      "description": "毛泽东曾在延安抗日军事政治大学讲授《实践论》的核心观点。讲演主要针对党内教条主义和经验主义问题，强调理论必须来源于革命实践。",
+      "date_text": "一九三七年",
+      "start_date": "1937-01-01",
+      "end_date": "1937-12-31",
+      "location": "延安",
+      "importance": 4,
+      "quote": "毛泽东曾以这篇论文的观点在延安的抗日军事政治大学作过讲演。"
+    }
+  ],
+  "ideas": [
+    {
+      "article_id": 16,
+      "name": "实践第一",
+      "summary": "毛泽东强调实践是认识的来源，也是检验真理的唯一标准。人的知识只能在生产活动、阶级斗争和科学实验等社会实践中形成。脱离实践的理论会陷入空洞和主观主义。正确理论必须回到实践中接受检验并指导行动。",
+      "category": "哲学方法论",
+      "quote": "真理的标准只能是社会的实践。"
+    },
+    {
+      "article_id": 16,
+      "name": "知行统一",
+      "summary": "认识不是静止的，而是在实践、认识、再实践、再认识中不断深化。理论必须服务于改造世界的行动，而行动也必须以科学理论为指导。知与行的统一构成辩证唯物论认识论的核心。",
+      "category": "哲学方法论",
+      "quote": "实践、认识、再实践、再认识，这种形式，循环往复以至无穷。"
+    },
+    {
+      "article_id": 16,
+      "name": "感性到理性",
+      "summary": "人的认识首先来源于感觉和印象，随后通过概念、判断和推理上升为理性认识。感性认识只能反映现象和片面联系，而理性认识才能揭示事物本质和规律。二者既有区别，又统一于实践基础之上。",
+      "category": "哲学方法论",
+      "quote": "认识的真正任务在于经过感觉而到达于思维。"
+    },
+    {
+      "article_id": 16,
+      "name": "反对教条主义",
+      "summary": "毛泽东批判机械照搬马克思主义文本、不结合中国革命实际的教条主义倾向。他认为马克思主义不是僵死教条，而是行动指南。脱离实践的理论无法正确指导革命。",
+      "category": "党的建设",
+      "quote": "马克思主义不是教条而是行动的指南。"
+    },
+    {
+      "article_id": 16,
+      "name": "理论指导实践",
+      "summary": "理论的重要性在于其能够指导革命行动。正确理论如果停留在纸面上而不付诸实践，就没有实际价值。革命者必须在实践中不断修正理论并推进革命事业。",
+      "category": "革命策略",
+      "quote": "没有革命的理论，就不会有革命的运动。"
+    },
+    {
+      "article_id": 16,
+      "name": "改造主客观世界",
+      "summary": "无产阶级革命不仅要改造客观世界，还要改造人的主观世界和认识能力。革命实践要求不断调整思想与客观现实的关系，实现人的认识与社会发展的同步推进。",
+      "category": "哲学方法论",
+      "quote": "无产阶级和革命人民改造世界的斗争，包括实现下述的任务：改造客观世界，也改造自己的主观世界。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党主要领导人，《实践论》作者，系统阐述了马克思主义认识论与中国革命实践结合的问题。"
+    },
+    {
+      "name": "马克思主义",
+      "type": "概念",
+      "description": "无产阶级革命理论体系，强调实践基础上的辩证唯物主义认识论。"
+    },
+    {
+      "name": "列宁",
+      "type": "人物",
+      "description": "俄国革命家和马克思主义理论家，其关于实践与认识关系的论述被毛泽东广泛引用。"
+    },
+    {
+      "name": "斯大林",
+      "type": "人物",
+      "description": "苏联领导人和马克思主义理论家，其关于理论与实践统一的观点在文中被引用。"
+    },
+    {
+      "name": "延安",
+      "type": "地点",
+      "description": "中国共产党抗日战争时期的重要根据地，《实践论》曾在此讲演传播。"
+    },
+    {
+      "name": "抗日军事政治大学",
+      "type": "组织",
+      "description": "中国共产党在延安创办的重要干部学校，毛泽东曾在此讲授《实践论》。"
+    },
+    {
+      "name": "五四运动",
+      "type": "事件",
+      "description": "1919年爆发的反帝反封建爱国运动，推动了马克思主义在中国传播。"
+    },
+    {
+      "name": "教条主义",
+      "type": "概念",
+      "description": "脱离具体实践、机械照搬理论的主观主义思想倾向。"
+    },
+    {
+      "name": "经验主义",
+      "type": "概念",
+      "description": "拘泥于局部经验、轻视理论总结的认识错误。"
+    },
+    {
+      "name": "辩证唯物论",
+      "type": "概念",
+      "description": "马克思主义哲学的重要组成部分，强调实践基础上的认识发展规律。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 16,
+      "target_type": "Idea",
+      "target_id": 1,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 16,
+      "target_type": "Idea",
+      "target_id": 2,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 16,
+      "target_type": "Idea",
+      "target_id": 3,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 16,
+      "target_type": "Entity",
+      "target_id": "教条主义",
+      "relation_type": "批判"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 16,
+      "target_type": "Entity",
+      "target_id": "经验主义",
+      "relation_type": "批判"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 16,
+      "target_type": "Entity",
+      "target_id": "马克思主义",
+      "relation_type": "属于"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 16,
+      "target_type": "Entity",
+      "target_id": "辩证唯物论",
+      "relation_type": "属于"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "毛泽东",
+      "target_type": "Article",
+      "target_id": 16,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "列宁",
+      "target_type": "Idea",
+      "target_id": 1,
+      "relation_type": "影响"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "斯大林",
+      "target_type": "Idea",
+      "target_id": 5,
+      "relation_type": "影响"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 2,
+      "target_type": "Entity",
+      "target_id": "五四运动",
+      "relation_type": "属于"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 6,
+      "target_type": "Entity",
+      "target_id": "延安",
+      "relation_type": "发生于"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 6,
+      "target_type": "Entity",
+      "target_id": "抗日军事政治大学",
+      "relation_type": "发生于"
+    }
+  ]
+}

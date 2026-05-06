@@ -1,0 +1,303 @@
+{
+  "article": {
+    "id": 9,
+    "title": "我们的经济政策",
+    "volume": "第一卷",
+    "date_text": "一九三四年一月",
+    "start_date": "1934-01-01",
+    "end_date": "1934-01-31",
+    "source": "第二次全国工农兵代表大会报告"
+  },
+  "events": [
+    {
+      "article_id": 9,
+      "title": "第二次全国工农兵代表大会召开",
+      "description": "1934年1月至2月，中华苏维埃共和国在江西瑞金召开第二次全国工农兵代表大会。毛泽东在大会上作经济政策报告，系统阐述苏区经济建设方向。大会强调在战争环境下推进农业、工业、贸易和财政建设。",
+      "date_text": "一九三四年一月二十二日至二月一日",
+      "start_date": "1934-01-22",
+      "end_date": "1934-02-01",
+      "location": "江西瑞金",
+      "importance": 5,
+      "quote": "这是毛泽东在一九三四年一月二十二日至二月一日在江西瑞金召开的第二次全国工农兵代表大会上的报告的一部分。"
+    },
+    {
+      "article_id": 9,
+      "title": "国民党对苏区经济封锁",
+      "description": "国民党和帝国主义在军事“围剿”之外，对红色区域实施严厉经济封锁。封锁导致出口困难、工业衰落和物资短缺。苏区通过经济建设与群众动员逐步突破封锁。",
+      "date_text": "一九三三年至一九三四年间",
+      "start_date": "1933-01-01",
+      "end_date": "1934-12-31",
+      "location": "红色区域",
+      "importance": 5,
+      "quote": "他们不但组织了武装力量进行军事上的“围剿”，而且在经济上实行残酷的封锁政策。"
+    },
+    {
+      "article_id": 9,
+      "title": "苏区农业恢复与增长",
+      "description": "土地分配完成后，苏区农业生产逐步恢复并增长。赣南闽西和闽浙赣边区农业产量明显提高，劳动互助社、耕田队和妇女生产运动发挥了重要作用。农业被确立为经济建设的核心。",
+      "date_text": "一九三三年",
+      "start_date": "1933-01-01",
+      "end_date": "1933-12-31",
+      "location": "赣南闽西、闽浙赣边区",
+      "importance": 5,
+      "quote": "一九三三年的农产，在赣南闽西区域，比较一九三二年增加了百分之十五。"
+    },
+    {
+      "article_id": 9,
+      "title": "合作社经济迅速发展",
+      "description": "苏区大力发展消费、粮食、生产和信用合作社。到1933年9月，两省十七县已有一千四百多个合作社。合作社被视为未来领导私人经济的重要经济力量。",
+      "date_text": "一九三三年九月",
+      "start_date": "1933-09-01",
+      "end_date": "1933-09-30",
+      "location": "江西福建两省十七县",
+      "importance": 4,
+      "quote": "据一九三三年九月江西福建两省十七个县的统计，共有各种合作社一千四百二十三个。"
+    },
+    {
+      "article_id": 9,
+      "title": "苏区对外贸易体系建立",
+      "description": "为应对封锁，苏区建立对外贸易局，组织食盐、布匹、粮食和钨砂等商品流通。闽浙赣边区较早开展对外贸易，中央区于1933年春开始推进。该体系初步改善了苏区经济循环。",
+      "date_text": "一九三三年春季",
+      "start_date": "1933-03-01",
+      "end_date": "1933-05-31",
+      "location": "中央区、闽浙赣边区",
+      "importance": 4,
+      "quote": "由于对外贸易局等机关的设立，已经得到初步的成绩。"
+    },
+    {
+      "article_id": 9,
+      "title": "发行经济建设公债",
+      "description": "苏维埃政府通过发行经济建设公债筹措资金。三百万元公债依靠群众支持，用于发展国营经济和合作社经济。该措施体现了群众财政与战争经济结合的特点。",
+      "date_text": "一九三三年至一九三四年",
+      "start_date": "1933-01-01",
+      "end_date": "1934-12-31",
+      "location": "中央苏区",
+      "importance": 3,
+      "quote": "我们在群众拥护之下，发行了三百万元经济建设公债。"
+    }
+  ],
+  "ideas": [
+    {
+      "article_id": 9,
+      "name": "战争经济建设",
+      "summary": "毛泽东提出经济建设必须服务于革命战争，同时改善群众生活。在敌人封锁条件下，经济建设不仅是生产问题，更是战争动员和政权巩固问题。经济与军事被视为统一整体。通过组织群众生产和发展财政体系，苏区形成了战争条件下的特殊经济模式。",
+      "category": "经济政策",
+      "quote": "集中经济力量供给战争，同时极力改良民众的生活。"
+    },
+    {
+      "article_id": 9,
+      "name": "农业优先战略",
+      "summary": "文章明确把农业置于经济建设首位，认为农业不仅关系粮食安全，也关系工业原料供给。毛泽东强调通过土地分配、劳动互助和妇女动员提高生产力。农业发展被视为苏区经济稳定的基础。",
+      "category": "经济政策",
+      "quote": "在目前的条件之下，农业生产是我们经济建设工作的第一位。"
+    },
+    {
+      "article_id": 9,
+      "name": "合作社发展路线",
+      "summary": "毛泽东把合作社视为连接个体经济与社会主义经济的重要形式。合作社既解决生产与流通问题，又能够逐步形成对私人经济的领导。其发展方式强调群众自愿和互利原则。",
+      "category": "经济政策",
+      "quote": "合作社经济和国营经济配合起来，经过长期的发展，将成为经济方面的巨大力量。"
+    },
+    {
+      "article_id": 9,
+      "name": "多种经济并存",
+      "summary": "文章提出苏区经济由国营、合作社和私人经济共同组成。毛泽东认为在革命阶段必须允许并鼓励私人经济发展，因为其仍占经济主体。社会主义经济的发展需要经历长期过渡过程。",
+      "category": "经济政策",
+      "quote": "现在我们的国民经济，是由国营事业、合作社事业和私人事业这三方面组成的。"
+    },
+    {
+      "article_id": 9,
+      "name": "节省反腐原则",
+      "summary": "毛泽东强调财政支出必须坚持节省原则，反对贪污和浪费。财政制度要区别于国民党政府，以服务战争与群众利益为核心。国家货币发行也必须以经济发展为基础，而不能单纯依赖财政需求。",
+      "category": "党的建设",
+      "quote": "贪污和浪费是极大的犯罪。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党领导人，中华苏维埃共和国主要领导者，提出苏区经济建设和战争经济思想。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国国民党政权，在革命战争时期对红色区域实施军事“围剿”和经济封锁。"
+    },
+    {
+      "name": "帝国主义",
+      "type": "概念",
+      "description": "毛泽东用于指代干涉中国革命、支持国民党反革命力量的外国资本主义势力。"
+    },
+    {
+      "name": "红色区域",
+      "type": "地点",
+      "description": "中国共产党领导下建立的革命根据地和苏维埃区域。"
+    },
+    {
+      "name": "中央苏区",
+      "type": "地点",
+      "description": "中国共产党在江西、福建等地建立的主要革命根据地。"
+    },
+    {
+      "name": "合作社",
+      "type": "组织",
+      "description": "苏区群众建立的经济互助组织，包括消费、粮食、生产和信用合作社。"
+    },
+    {
+      "name": "劳动互助社",
+      "type": "组织",
+      "description": "苏区农民在个体经济基础上建立的劳动互助组织，用于调剂劳动力。"
+    },
+    {
+      "name": "中华苏维埃共和国",
+      "type": "组织",
+      "description": "中国共产党在革命根据地建立的工农民主政权。"
+    },
+    {
+      "name": "经济建设公债",
+      "type": "概念",
+      "description": "苏维埃政府为发展经济和支持战争而发行的公债。"
+    },
+    {
+      "name": "对外贸易局",
+      "type": "组织",
+      "description": "苏区设立的贸易管理机构，负责组织商品流通和突破经济封锁。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 9,
+      "target_type": "Idea",
+      "target_id": 0,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 9,
+      "target_type": "Idea",
+      "target_id": 1,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 9,
+      "target_type": "Idea",
+      "target_id": 2,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 9,
+      "target_type": "Idea",
+      "target_id": 3,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 9,
+      "target_type": "Idea",
+      "target_id": 4,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "毛泽东",
+      "target_type": "Article",
+      "target_id": 9,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "国民党",
+      "target_type": "Entity",
+      "target_id": "红色区域",
+      "relation_type": "反对"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "帝国主义",
+      "target_type": "Entity",
+      "target_id": "红色区域",
+      "relation_type": "反对"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 0,
+      "target_type": "Entity",
+      "target_id": "中华苏维埃共和国",
+      "relation_type": "属于"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "领导"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 2,
+      "target_type": "Entity",
+      "target_id": "劳动互助社",
+      "relation_type": "参与"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 3,
+      "target_type": "Entity",
+      "target_id": "合作社",
+      "relation_type": "参与"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 4,
+      "target_type": "Entity",
+      "target_id": "对外贸易局",
+      "relation_type": "参与"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 5,
+      "target_type": "Entity",
+      "target_id": "经济建设公债",
+      "relation_type": "代表"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 0,
+      "target_type": "Entity",
+      "target_id": "红色区域",
+      "relation_type": "影响"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "劳动互助社",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 2,
+      "target_type": "Entity",
+      "target_id": "合作社",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 3,
+      "target_type": "Entity",
+      "target_id": "合作社",
+      "relation_type": "影响"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 4,
+      "target_type": "Entity",
+      "target_id": "经济建设公债",
+      "relation_type": "支持"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+    "article": {
+        "id": 3,
+        "title": "井冈山的斗争",
+        "volume": "第一卷",
+        "date_text": "一九二八年十一月二十五日",
+        "start_date": "1928-11-25",
+        "end_date": "1928-11-25",
+        "source": "写给中共中央的报告"
+    },
+    "events": [
+        {
+            "article_id": 3,
+            "title": "湘赣边界八月失败",
+            "description": "由于错误执行向湘南冒进的策略，红军分兵行动，导致边界根据地和湘南同时失败。此次失败暴露了对统治阶级稳定与破裂时期判断失误的问题。失败后根据地遭受严重破坏。",
+            "date_text": "一九二八年八月",
+            "start_date": "1928-08-01",
+            "end_date": "1928-08-31",
+            "location": "湘赣边界",
+            "importance": 5,
+            "quote": "八月失败，完全在于一部分同志不明了当时正是统治阶级暂时稳定时期"
+        },
+        {
+            "article_id": 3,
+            "title": "湘南起义及其失败",
+            "description": "红军主力进入湘南地区，与敌作战并试图扩大革命根据地。由于部队内部动摇、群众基础薄弱及准备不足，最终失败并撤退。此次失败削弱了红军力量。",
+            "date_text": "一九二八年七月至八月",
+            "start_date": "1928-07-01",
+            "end_date": "1928-08-31",
+            "location": "湘南",
+            "importance": 4,
+            "quote": "湘南群众未起来，成了单纯的军事冒险"
+        },
+        {
+            "article_id": 3,
+            "title": "井冈山保卫战",
+            "description": "湘赣敌军联合进攻井冈山根据地，红军依托地形顽强防守。虽然兵力不足，但成功击退敌人，保存了革命根据地。此战体现了根据地防御能力。",
+            "date_text": "一九二八年八月三十日",
+            "start_date": "1928-08-30",
+            "end_date": "1928-08-30",
+            "location": "井冈山",
+            "importance": 5,
+            "quote": "凭险抵抗，将敌击溃，保存了这个根据地"
+        },
+        {
+            "article_id": 3,
+            "title": "龙源口战斗",
+            "description": "红军在龙源口击败江西敌军，取得重要胜利。此战巩固了根据地并推动土地革命发展。战后割据区域达到全盛。",
+            "date_text": "一九二八年六月二十三日",
+            "start_date": "1928-06-23",
+            "end_date": "1928-06-23",
+            "location": "龙源口",
+            "importance": 4,
+            "quote": "龙源口一战，第四次击破江西敌人之后"
+        },
+        {
+            "article_id": 3,
+            "title": "桂东会师",
+            "description": "红军主力与井冈山部队在桂东会合，恢复统一行动。此举使红军重新整合力量，为后续斗争奠定基础。",
+            "date_text": "一九二八年八月二十三日",
+            "start_date": "1928-08-23",
+            "end_date": "1928-08-23",
+            "location": "桂东",
+            "importance": 3,
+            "quote": "八月二十三日我们在桂东得到会合"
+        },
+        {
+            "article_id": 3,
+            "title": "红军重返井冈山",
+            "description": "红军在经历湘南失败后，经崇义、上犹等地返回井冈山。此举恢复了根据地的核心力量，并继续推进割据斗争。",
+            "date_text": "一九二八年九月",
+            "start_date": "1928-09-01",
+            "end_date": "1928-09-30",
+            "location": "井冈山",
+            "importance": 4,
+            "quote": "九月二十六日回到井冈山"
+        }
+    ],
+    "ideas": [
+        {
+            "article_id": 3,
+            "name": "工农武装割据",
+            "summary": "在敌对政权包围中，通过武装斗争建立局部红色政权是中国革命的重要形式。这种割据依赖群众基础、党的领导和红军力量。其存在条件包括地形、经济和政治因素。该理论解释了中国革命道路的特殊性。",
+            "category": "革命策略",
+            "quote": "一国之内，在四围白色政权的包围中间，产生一小块或若干小块的红色政权区域"
+        },
+        {
+            "article_id": 3,
+            "name": "中心区域建设",
+            "summary": "革命根据地必须建立稳固的中心区域，作为长期斗争的依托。不能盲目扩张，而应集中力量巩固基础。中心区域的稳定是抵御敌人进攻的关键。该思想反对分散和冒进策略。",
+            "category": "革命策略",
+            "quote": "必须注意建立中心区域的坚实基础"
+        },
+        {
+            "article_id": 3,
+            "name": "军事斗争中心化",
+            "summary": "在敌强我弱的环境下，军事斗争成为革命的核心形式。党和群众必须军事化以适应斗争环境。集中兵力打击敌人是基本原则。分兵作战容易失败。",
+            "category": "军事思想",
+            "quote": "边界的斗争，完全是军事的斗争"
+        },
+        {
+            "article_id": 3,
+            "name": "军队民主制度",
+            "summary": "红军内部实行民主制度，提高士兵积极性和战斗力。官兵平等、士兵参与管理，有助于增强凝聚力。民主制度是区别于旧式军队的重要特征。其作用在于激发革命精神。",
+            "category": "党的建设",
+            "quote": "官长不打士兵，官兵待遇平等"
+        },
+        {
+            "article_id": 3,
+            "name": "中间阶级策略",
+            "summary": "对农村中间阶级需采取谨慎政策，避免过度打击。中间阶级在革命高潮与低潮中态度不同。争取或稳定中间阶级对革命成败具有重要影响。错误政策会将其推向敌对阵营。",
+            "category": "阶级分析",
+            "quote": "割据地区最困难的问题，就在拿不住中间阶级"
+        }
+    ],
+    "entities": [
+        {
+            "name": "毛泽东",
+            "type": "人物",
+            "description": "中国共产党领导人，井冈山革命根据地的主要创建者之一。"
+        },
+        {
+            "name": "朱德",
+            "type": "人物",
+            "description": "中国工农红军领导人，与毛泽东共同领导井冈山斗争。"
+        },
+        {
+            "name": "陈毅",
+            "type": "人物",
+            "description": "红军将领，参与井冈山斗争和军事指挥。"
+        },
+        {
+            "name": "井冈山",
+            "type": "地点",
+            "description": "中国革命重要根据地，位于湘赣边界山区。"
+        },
+        {
+            "name": "湘赣边界",
+            "type": "地点",
+            "description": "湖南与江西交界地区，是井冈山革命根据地所在区域。"
+        },
+        {
+            "name": "红军第四军",
+            "type": "组织",
+            "description": "中国工农红军重要部队，在井冈山斗争中发挥核心作用。"
+        },
+        {
+            "name": "国民党军队",
+            "type": "组织",
+            "description": "代表白色政权的主要军事力量，与红军对抗。"
+        },
+        {
+            "name": "工农兵政府",
+            "type": "组织",
+            "description": "革命根据地建立的政权形式，代表工农群众利益。"
+        }
+    ],
+    "relations": [
+        {
+            "source_type": "Article",
+            "source_id": 3,
+            "target_type": "Idea",
+            "target_id": 1,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 3,
+            "target_type": "Idea",
+            "target_id": 2,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 3,
+            "target_type": "Idea",
+            "target_id": 3,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 3,
+            "target_type": "Idea",
+            "target_id": 4,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 3,
+            "target_type": "Idea",
+            "target_id": 5,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Entity",
+            "source_id": "毛泽东",
+            "target_type": "Article",
+            "target_id": 3,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Entity",
+            "source_id": "朱德",
+            "target_type": "Event",
+            "target_id": 6,
+            "relation_type": "参与"
+        },
+        {
+            "source_type": "Entity",
+            "source_id": "红军第四军",
+            "target_type": "Event",
+            "target_id": 3,
+            "relation_type": "参与"
+        },
+        {
+            "source_type": "Event",
+            "source_id": 1,
+            "target_type": "Entity",
+            "target_id": "湘赣边界",
+            "relation_type": "发生于"
+        },
+        {
+            "source_type": "Event",
+            "source_id": 3,
+            "target_type": "Entity",
+            "target_id": "井冈山",
+            "relation_type": "发生于"
+        },
+        {
+            "source_type": "Event",
+            "source_id": 4,
+            "target_type": "Entity",
+            "target_id": "湘赣边界",
+            "relation_type": "发生于"
+        }
+    ]
+}

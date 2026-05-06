@@ -1,0 +1,232 @@
+{
+  "article": {
+    "id": 6,
+    "title": "反对本本主义",
+    "volume": "第一卷",
+    "date_text": "一九三○年五月",
+    "start_date": "1930-05-01",
+    "end_date": "1930-05-31",
+    "source": null
+  },
+  "events": [
+    {
+      "article_id": 6,
+      "title": "红军第四军开展社会调查",
+      "description": "毛泽东推动红军第四军建立社会调查制度，要求红军到达一地后先调查阶级关系，再制定斗争口号。这一做法旨在克服主观主义和形式主义，提高革命策略的针对性。调查内容包括土地、人口、群众斗争状况和经济生活情况。",
+      "date_text": "一九二九年至一九三○年间",
+      "start_date": "1929-01-01",
+      "end_date": "1930-12-31",
+      "location": "江西、福建革命根据地",
+      "importance": 5,
+      "quote": "红军每到一个地方，都首先要弄清当地的阶级关系状况。"
+    },
+    {
+      "article_id": 6,
+      "title": "红军第四军离开井冈山向赣南闽西进军",
+      "description": "1929年初，毛泽东和朱德率领红军第四军主力离开井冈山，向赣南和闽西发展。这标志着革命根据地从山区向更广阔地区扩展，也对党的调查研究能力提出了更高要求。",
+      "date_text": "一九二九年一月",
+      "start_date": "1929-01-01",
+      "end_date": "1929-01-31",
+      "location": "井冈山、赣南、闽西",
+      "importance": 4,
+      "quote": "斗争的发展使我们离开山头跑向平地了。"
+    },
+    {
+      "article_id": 6,
+      "title": "中国共产党第六次全国代表大会",
+      "description": "1928年召开的中共六大通过了一系列决议案，为党的革命路线提供指导。但毛泽东批评部分干部机械迷信这些“本本”，脱离中国实际情况，形成教条主义。",
+      "date_text": "一九二八年六月至七月",
+      "start_date": "1928-06-01",
+      "end_date": "1928-07-31",
+      "location": "莫斯科",
+      "importance": 4,
+      "quote": "党的第六次全国代表大会的“本本”保障了永久的胜利。"
+    },
+    {
+      "article_id": 6,
+      "title": "红军内部反对教条主义斗争",
+      "description": "毛泽东在文章中系统批判党内和红军中的本本主义、形式主义和唯心主义倾向。他强调调查研究是制定革命策略的基础，反对脱离群众和实际经验的空洞理论。",
+      "date_text": "一九三○年五月",
+      "start_date": "1930-05-01",
+      "end_date": "1930-05-31",
+      "location": "中央革命根据地",
+      "importance": 5,
+      "quote": "马克思主义的“本本”是要学习的，但是必须同我国的实际情况相结合。"
+    }
+  ],
+  "ideas": [
+    {
+      "article_id": 6,
+      "name": "调查决定发言权",
+      "summary": "毛泽东提出，没有调查就没有发言权，强调认识问题必须建立在对现实情况和历史情况的了解之上。他认为脱离调查的意见只能是主观臆断。调查研究不仅是认识世界的方法，也是解决问题的起点。领导干部必须深入群众获取真实信息。",
+      "category": "哲学方法论",
+      "quote": "没有调查，没有发言权。"
+    },
+    {
+      "article_id": 6,
+      "name": "反对本本主义",
+      "summary": "毛泽东反对机械照搬书本和上级指示，认为马克思主义必须与中国革命实际结合。他批判形式主义执行路线的方法，强调理论只有经过实践检验才有意义。真正的革命路线来源于群众斗争和现实经验，而不是抽象教条。",
+      "category": "哲学方法论",
+      "quote": "马克思主义的“本本”是要学习的，但是必须同我国的实际情况相结合。"
+    },
+    {
+      "article_id": 6,
+      "name": "群众调查路线",
+      "summary": "文章提出领导干部必须深入群众，通过调查会、讨论会等方式了解真实社会情况。调查不仅是收集材料，更是形成正确判断和政策的过程。毛泽东强调调查对象应覆盖不同阶级，以便把握社会结构和阶级关系。",
+      "category": "党的建设",
+      "quote": "到斗争中去！到群众中作实际调查去！"
+    },
+    {
+      "article_id": 6,
+      "name": "阶级分析方法",
+      "summary": "毛泽东认为社会经济调查的核心目的是明确各阶级的经济和政治地位，从而制定正确斗争策略。他强调不能只看行业现象，而必须分析阶级结构与阶级关系。这一方法后来成为中国革命的重要分析框架。",
+      "category": "阶级分析",
+      "quote": "我们的终极目的是要明了各种阶级的相互关系，得到正确的阶级估量。"
+    },
+    {
+      "article_id": 6,
+      "name": "实践生成策略",
+      "summary": "毛泽东指出革命斗争策略不能凭空制定，而必须在实际斗争和社会调查中形成。他反对保守主义和空洞乐观，强调革命路线需要随着现实变化不断调整。正确策略来源于实践经验的总结。",
+      "category": "革命策略",
+      "quote": "共产党的正确而不动摇的斗争策略，决不是少数人坐在房子里能够产生的。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中国革命的重要领导人，强调调查研究和实事求是的思想路线。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国工人阶级的革命政党，领导中国革命斗争。"
+    },
+    {
+      "name": "红军第四军",
+      "type": "组织",
+      "description": "中国工农红军的重要部队，在赣南和闽西地区开展革命斗争和社会调查。"
+    },
+    {
+      "name": "马克思主义",
+      "type": "概念",
+      "description": "无产阶级革命理论体系，毛泽东强调其必须结合中国实际。"
+    },
+    {
+      "name": "本本主义",
+      "type": "概念",
+      "description": "指脱离实际、机械照搬书本和上级指示的教条主义思想倾向。"
+    },
+    {
+      "name": "井冈山",
+      "type": "地点",
+      "description": "中国共产党早期革命根据地之一，是红军发展的重要基地。"
+    },
+    {
+      "name": "赣南",
+      "type": "地点",
+      "description": "江西南部地区，中央革命根据地的重要组成部分。"
+    },
+    {
+      "name": "闽西",
+      "type": "地点",
+      "description": "福建西部革命根据地，是红军活动的重要区域。"
+    },
+    {
+      "name": "中国共产党第六次全国代表大会",
+      "type": "事件",
+      "description": "1928年召开的中共六大，制定了一系列革命决议案。"
+    },
+    {
+      "name": "调查研究",
+      "type": "概念",
+      "description": "毛泽东提出的重要工作方法，是制定正确路线和政策的基础。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 6,
+      "target_type": "Idea",
+      "target_id": 0,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 6,
+      "target_type": "Entity",
+      "target_id": "本本主义",
+      "relation_type": "批判"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 6,
+      "target_type": "Entity",
+      "target_id": "调查研究",
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "毛泽东",
+      "target_type": "Article",
+      "target_id": 6,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "红军第四军",
+      "target_type": "Event",
+      "target_id": 1,
+      "relation_type": "参与"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "毛泽东",
+      "target_type": "Event",
+      "target_id": 2,
+      "relation_type": "领导"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 2,
+      "target_type": "Entity",
+      "target_id": "井冈山",
+      "relation_type": "发生于"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 2,
+      "target_type": "Entity",
+      "target_id": "赣南",
+      "relation_type": "发生于"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 2,
+      "target_type": "Entity",
+      "target_id": "闽西",
+      "relation_type": "发生于"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "马克思主义",
+      "target_type": "Entity",
+      "target_id": "调查研究",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "本本主义",
+      "relation_type": "反对"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 3,
+      "target_type": "Entity",
+      "target_id": "调查研究",
+      "relation_type": "支持"
+    }
+  ]
+}

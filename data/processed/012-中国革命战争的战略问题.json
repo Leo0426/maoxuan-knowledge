@@ -1,0 +1,247 @@
+{
+  "article": {
+    "id": 12,
+    "title": "中国革命战争的战略问题",
+    "volume": "第一卷",
+    "date_text": "一九三六年十二月",
+    "start_date": "1936-12-01",
+    "end_date": "1936-12-31",
+    "source": null
+  },
+  "events": [
+    {
+      "article_id": 12,
+      "title": "遵义会议",
+      "description": "1935年1月，中共中央在贵州遵义召开扩大会议，集中纠正军事和组织上的错误。会议否定了王明“左”倾路线，确立了毛泽东在党中央和红军中的领导地位。此次会议成为中国共产党历史上的重大转折点。",
+      "date_text": "一九三五年一月",
+      "start_date": "1935-01-01",
+      "end_date": "1935-01-31",
+      "location": "贵州遵义",
+      "importance": 5,
+      "quote": "一九三五年一月扩大的中央政治局的遵义会议时纠正过来了。"
+    },
+    {
+      "article_id": 12,
+      "title": "中央红军长征",
+      "description": "中央红军在第五次反“围剿”失败后，被迫进行战略转移，从江西转移至陕北。长征保存了中国革命的核心力量，并推动红军战略重组。毛泽东将其视为战略防御的继续。",
+      "date_text": "一九三四年至一九三五年",
+      "start_date": "1934-10-01",
+      "end_date": "1935-10-31",
+      "location": "江西至陕西",
+      "importance": 5,
+      "quote": "红军的战略退却（长征）是红军的战略防御的继续。"
+    },
+    {
+      "article_id": 12,
+      "title": "第一次反“围剿”作战",
+      "description": "1930年底至1931年初，红军在江西宁都、龙冈等地集中优势兵力，歼灭张辉瓒部，成功打破国民党第一次“围剿”。此次作战形成了集中兵力、诱敌深入等战略原则。",
+      "date_text": "一九三○年十二月至一九三一年一月",
+      "start_date": "1930-12-01",
+      "end_date": "1931-01-31",
+      "location": "江西宁都、龙冈",
+      "importance": 5,
+      "quote": "第一仗就决定打而且打着了张辉瓒的主力两个旅和一个师部。"
+    },
+    {
+      "article_id": 12,
+      "title": "第五次反“围剿”失败",
+      "description": "国民党采用堡垒推进战略，对中央苏区发动第五次“围剿”。由于党内“左”倾错误路线实行消极防御和阵地战，红军失去机动优势，最终导致中央苏区丧失。",
+      "date_text": "一九三三年至一九三四年",
+      "start_date": "1933-09-01",
+      "end_date": "1934-10-31",
+      "location": "江西中央苏区",
+      "importance": 5,
+      "quote": "结果丧失了整个根据地，使红军做了一万二千多公里的长征。"
+    },
+    {
+      "article_id": 12,
+      "title": "福建事变",
+      "description": "1933年福建人民政府成立，试图联合反蒋力量。毛泽东认为红军应借机向东南战略出击，破坏国民党第五次“围剿”，但错误路线未能利用这一机会。",
+      "date_text": "一九三三年",
+      "start_date": "1933-11-01",
+      "end_date": "1934-01-31",
+      "location": "福建",
+      "importance": 3,
+      "quote": "当福建事变出现之时，红军主力无疑地应该突进到以浙江为中心的苏浙皖赣地区去。"
+    },
+    {
+      "article_id": 12,
+      "title": "西安事变",
+      "description": "1936年西安事变爆发后，国内政治局势发生重大变化。毛泽东因此中断本书后续章节写作，将工作重点转向抗日民族统一战线。",
+      "date_text": "一九三六年",
+      "start_date": "1936-12-12",
+      "end_date": "1936-12-25",
+      "location": "陕西西安",
+      "importance": 4,
+      "quote": "因为西安事变发生，没有工夫再写，就搁笔了。"
+    }
+  ],
+  "ideas": [
+    {
+      "article_id": 12,
+      "name": "战争规律发展",
+      "summary": "毛泽东强调战争规律具有历史性和具体性，不同国家、不同阶段、不同性质的战争都有特殊规律。机械照搬外国经验或过去经验都会导致失败。研究战争必须坚持具体问题具体分析。中国革命战争必须从中国半殖民地半封建社会条件出发。",
+      "category": "军事思想",
+      "quote": "战争情况的不同，决定着不同的战争指导规律。"
+    },
+    {
+      "article_id": 12,
+      "name": "积极防御",
+      "summary": "积极防御不是消极死守，而是在战略退却中保存力量、创造条件，最终转入反攻。毛泽东反对单纯防御和机械阵地战，强调“诱敌深入”与运动歼敌。防御的目的在于更有效的进攻。",
+      "category": "军事思想",
+      "quote": "积极防御，又叫攻势防御，又叫决战防御。"
+    },
+    {
+      "article_id": 12,
+      "name": "集中兵力",
+      "summary": "红军必须在局部战场形成绝对或相对优势，以“以十当一”的战术消灭敌人有生力量。毛泽东反对军事平均主义和“全线出击”，强调集中主力打敌弱点。集中兵力是弱军战胜强军的根本原则。",
+      "category": "军事思想",
+      "quote": "我们的战略是“以一当十”，我们的战术是“以十当一”。"
+    },
+    {
+      "article_id": 12,
+      "name": "运动歼灭战",
+      "summary": "红军作战以运动战为基本形式，通过机动作战创造局部优势，实施速决和歼灭。歼灭敌人的有生力量比单纯击溃更重要。运动战适应红军装备弱小、根据地流动的现实条件。",
+      "category": "军事思想",
+      "quote": "对于中国红军来说，基本的方针是歼灭战。"
+    },
+    {
+      "article_id": 12,
+      "name": "党领导战争",
+      "summary": "毛泽东认为中国革命战争必须由无产阶级及其政党中国共产党领导。共产党具有最强的组织性和最远大的政治眼光，能够整合农民和小资产阶级力量。没有党的领导，革命战争必然失败。",
+      "category": "党的建设",
+      "quote": "任何的革命战争如果没有或违背无产阶级和共产党的领导，那个战争是一定要失败的。"
+    },
+    {
+      "article_id": 12,
+      "name": "持久革命战争",
+      "summary": "由于中国革命力量弱小而敌人强大，中国革命战争必须长期进行。战略上应坚持持久战，但战役和战斗层面则应追求速决。长期积累力量与局部快速歼敌构成统一整体。",
+      "category": "革命策略",
+      "quote": "战略的持久战，战役和战斗的速决战。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中国红军主要领导人，系统提出中国革命战争的战略理论。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命战争的领导核心，领导工农红军和革命根据地建设。"
+    },
+    {
+      "name": "中国工农红军",
+      "type": "组织",
+      "description": "中国共产党领导的革命武装力量，是中国革命战争的主体。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，多次组织对革命根据地的“围剿”。"
+    },
+    {
+      "name": "遵义会议",
+      "type": "事件",
+      "description": "1935年中共中央召开的重要会议，确立毛泽东的领导地位。"
+    },
+    {
+      "name": "长征",
+      "type": "事件",
+      "description": "中央红军进行的战略大转移，保存了革命核心力量。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国主要反革命统治集团，领导对白区和根据地的军事围剿。"
+    },
+    {
+      "name": "王明",
+      "type": "人物",
+      "description": "党内“左”倾机会主义代表人物，其路线给革命造成重大损失。"
+    },
+    {
+      "name": "张国焘",
+      "type": "人物",
+      "description": "红军高级领导人，曾推行右倾机会主义路线。"
+    },
+    {
+      "name": "孙武",
+      "type": "人物",
+      "description": "中国古代军事理论家，《孙子兵法》作者。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 12,
+      "target_type": "Idea",
+      "target_id": 0,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 12,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 12,
+      "target_type": "Entity",
+      "target_id": "王明",
+      "relation_type": "批判"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 12,
+      "target_type": "Entity",
+      "target_id": "张国焘",
+      "relation_type": "批判"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 2,
+      "target_type": "Entity",
+      "target_id": "中国工农红军",
+      "relation_type": "参与"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "蒋介石",
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "领导"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "毛泽东",
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "领导"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "中国工农红军",
+      "relation_type": "影响"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 3,
+      "target_type": "Entity",
+      "target_id": "孙武",
+      "relation_type": "引用"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "article": {
+    "id": 15,
+    "title": "为争取千百万群众进入抗日民族统一战线而斗争",
+    "volume": "第一卷",
+    "date_text": "一九三七年五月八日",
+    "start_date": "1937-05-08",
+    "end_date": "1937-05-08",
+    "source": "中国共产党全国代表会议结论"
+  },
+  "events": [
+    {
+      "article_id": 15,
+      "title": "西安事变和平解决",
+      "description": "西安事变后，中国国内实现了暂时和平，内战局面得到缓和。中国共产党主张和平解决事变，推动停止内战、联合抗日。毛泽东认为这一变化标志着新的政治阶段已经出现。",
+      "date_text": "一九三六年十二月",
+      "start_date": "1936-12-12",
+      "end_date": "1936-12-25",
+      "location": "西安",
+      "importance": 5,
+      "quote": "然而西安事变后和平实现是事实。"
+    },
+    {
+      "article_id": 15,
+      "title": "国民党三中全会召开",
+      "description": "国民党三中全会后，国内和平局面进一步形成。共产党据此提出从“争取和平”转向“巩固和平”和“争取民主”的新任务。会议被视为国民党开始转变的重要标志。",
+      "date_text": "一九三七年二月",
+      "start_date": "1937-02-01",
+      "end_date": "1937-02-28",
+      "location": "南京",
+      "importance": 4,
+      "quote": "国民党三中全会后，我们说和平已经取得。"
+    },
+    {
+      "article_id": 15,
+      "title": "一二九运动",
+      "description": "一二九运动推动了全国抗日救亡运动的发展。毛泽东认为这一运动推动了争取和平与抗日的政治进程。它成为抗日民族统一战线形成的重要群众基础。",
+      "date_text": "一九三五年十二月九日",
+      "start_date": "1935-12-09",
+      "end_date": "1935-12-09",
+      "location": "北平",
+      "importance": 5,
+      "quote": "前一阶段一切直接间接的抗日行动都围绕着争取和平。"
+    },
+    {
+      "article_id": 15,
+      "title": "苏州审判救国会领袖",
+      "description": "国民党政府对救国会七君子进行逮捕和审判，体现其反民主倾向。毛泽东将其视为国民党仍保留旧反动政策的表现，但并不改变总体转向抗日的趋势。",
+      "date_text": "一九三七年四月至六月",
+      "start_date": "1937-04-01",
+      "end_date": "1937-06-25",
+      "location": "苏州",
+      "importance": 3,
+      "quote": "和平刚刚实现又发现苏州审判等事。"
+    },
+    {
+      "article_id": 15,
+      "title": "东北军东调",
+      "description": "国民党为削弱东北军与红军之间的联系，强令东北军东调。毛泽东将其视为国民党内部矛盾与抗日统一战线复杂性的体现。",
+      "date_text": "一九三七年三月",
+      "start_date": "1937-03-01",
+      "end_date": "1937-03-31",
+      "location": "河南、安徽、苏北",
+      "importance": 2,
+      "quote": "东北军东调。"
+    },
+    {
+      "article_id": 15,
+      "title": "佐藤外交活动",
+      "description": "日本帝国主义通过所谓“佐藤外交”伪装和平姿态，企图破坏中国抗日民族统一战线。毛泽东指出其本质仍是侵略战争准备。",
+      "date_text": "一九三七年三月",
+      "start_date": "1937-03-01",
+      "end_date": "1937-03-31",
+      "location": "日本、中国",
+      "importance": 4,
+      "quote": "佐藤外交是大战的准备。"
+    }
+  ],
+  "ideas": [
+    {
+      "article_id": 15,
+      "name": "三位一体路线",
+      "summary": "毛泽东提出“巩固和平、争取民主、实现抗战”三位一体的政治路线。他认为和平并不稳固，必须通过民主运动来巩固和平，并最终推动全面抗战。这个路线体现了革命阶段任务的递进关系。它也是抗日民族统一战线形成的重要理论基础。",
+      "category": "革命策略",
+      "quote": "提出“巩固和平”、“争取民主”、“实现抗战”这样三位一体的口号。"
+    },
+    {
+      "article_id": 15,
+      "name": "民主保障抗战",
+      "summary": "毛泽东强调民主并不是抗战的附属，而是抗战的重要保障。没有人民自由和民主权利，就无法形成广泛的抗日动员。民主运动与抗日斗争互为条件、相互促进。民主被定义为新阶段最本质的政治任务。",
+      "category": "统一战线",
+      "quote": "民主是抗日的保证。"
+    },
+    {
+      "article_id": 15,
+      "name": "革命转变论",
+      "summary": "毛泽东主张民主革命经过必要阶段逐步转向社会主义革命。他反对托洛茨基式“不断革命”论，也反对急躁冒险。共产党必须在民主共和国阶段积累力量、争取领导权。统一战线中的资产阶级抗日派被视为革命发展的阶段性同盟。",
+      "category": "革命策略",
+      "quote": "我们是革命转变论者，主张民主革命转变到社会主义方向去。"
+    },
+    {
+      "article_id": 15,
+      "name": "干部决定革命",
+      "summary": "毛泽东指出，革命事业依赖大量具有政治远见和组织能力的干部。干部不仅要懂马克思主义，还要能够联系群众、独立解决问题。党的全国化发展必须建立在干部培养基础之上。干部建设被视为革命成功的关键条件。",
+      "category": "党的建设",
+      "quote": "干部决定一切。"
+    },
+    {
+      "article_id": 15,
+      "name": "党内民主建设",
+      "summary": "毛泽东强调民主集中制必须把集中与民主结合起来。在新的政治时期，应通过扩大党内民主来调动党员积极性。党内民主不仅是组织原则，也是培养干部和克服宗派主义的重要方法。",
+      "category": "党的建设",
+      "quote": "用民主制的实行，发挥全党的积极性。"
+    },
+    {
+      "article_id": 15,
+      "name": "群众统一战线",
+      "summary": "毛泽东认为抗日民族统一战线的关键在于争取千百万群众。党的路线必须转化为群众路线，通过长期宣传、组织和鼓动工作形成广泛社会动员。统一战线不是少数政治人物的联盟，而是群众性的民族政治联合。",
+      "category": "统一战线",
+      "quote": "把党的方针变为群众的方针。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党领导人，提出抗日民族统一战线和民主革命转变论。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国工人阶级先锋队，领导抗日民族统一战线与民主革命。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在西安事变后开始有限度转向抗日。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的主要帝国主义势力，是中国民族革命的主要敌人。"
+    },
+    {
+      "name": "西安事变",
+      "type": "事件",
+      "description": "张学良、杨虎城发动的军事政治事件，推动了国共合作与停止内战。"
+    },
+    {
+      "name": "抗日民族统一战线",
+      "type": "概念",
+      "description": "中国共产党提出的联合各阶级共同抗日的政治联盟。"
+    },
+    {
+      "name": "民主共和国",
+      "type": "概念",
+      "description": "毛泽东提出的民主革命阶段国家形态，是通向社会主义的重要阶段。"
+    },
+    {
+      "name": "张国焘",
+      "type": "人物",
+      "description": "中共早期领导人之一，其退却路线受到党中央批判。"
+    },
+    {
+      "name": "杨虎城",
+      "type": "人物",
+      "description": "西北军将领，西安事变的重要发动者之一。"
+    },
+    {
+      "name": "斯大林",
+      "type": "人物",
+      "description": "苏联共产党领导人，提出“干部决定一切”的论断。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 15,
+      "target_type": "Idea",
+      "target_id": 0,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 15,
+      "target_type": "Entity",
+      "target_id": "抗日民族统一战线",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "毛泽东",
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "领导"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "日本帝国主义",
+      "target_type": "Entity",
+      "target_id": "抗日民族统一战线",
+      "relation_type": "反对"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 0,
+      "target_type": "Entity",
+      "target_id": "西安事变",
+      "relation_type": "属于"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "杨虎城",
+      "target_type": "Entity",
+      "target_id": "西安事变",
+      "relation_type": "参与"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "张国焘",
+      "target_type": "Article",
+      "target_id": 15,
+      "relation_type": "被批判"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 2,
+      "target_type": "Entity",
+      "target_id": "民主共和国",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 5,
+      "target_type": "Entity",
+      "target_id": "抗日民族统一战线",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "斯大林",
+      "target_type": "Idea",
+      "target_id": 3,
+      "relation_type": "影响"
+    }
+  ]
+}

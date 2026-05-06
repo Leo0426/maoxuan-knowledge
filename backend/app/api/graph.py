@@ -14,7 +14,7 @@ router = APIRouter(prefix="/api/graph", tags=["graph"])
 
 
 def node_id(node_type: str, raw_id: int) -> str:
-    return f"{node_type}:{raw_id}"
+    return f"{node_type.lower()}:{raw_id}"
 
 
 @router.get("", response_model=GraphRead)
@@ -53,9 +53,9 @@ def _article_graph(session: Session, article_id: int) -> GraphRead:
     # Collect entity IDs referenced in those relations
     entity_ids: set[int] = set()
     for r in relevant_rels:
-        if r.source_type == "entity":
+        if r.source_type.lower() == "entity":
             entity_ids.add(r.source_id)
-        if r.target_type == "entity":
+        if r.target_type.lower() == "entity":
             entity_ids.add(r.target_id)
 
     entities = [e for e in crud.list_entities(session, limit=2000) if e.id in entity_ids]

@@ -1,0 +1,272 @@
+{
+  "article": {
+    "id": 11,
+    "title": "论反对日本帝国主义的策略",
+    "volume": "第一卷",
+    "date_text": "一九三五年十二月二十七日",
+    "start_date": "1935-12-27",
+    "end_date": "1935-12-27",
+    "source": "陕北瓦窑堡党的活动分子会议报告"
+  },
+  "events": [
+    {
+      "article_id": 11,
+      "title": "九一八事变",
+      "description": "1931年日本帝国主义发动侵略东北的军事行动，标志着中国由半殖民地向日本殖民地化加速转变。事变后东北迅速沦陷，中国民族危机全面加深，推动全国抗日运动高涨。",
+      "date_text": "一九三一年九月十八日",
+      "start_date": "1931-09-18",
+      "end_date": "1931-09-18",
+      "location": "中国东北",
+      "importance": 5,
+      "quote": "一九三一年九月十八日的事变，开始了变中国为日本殖民地的阶段。"
+    },
+    {
+      "article_id": 11,
+      "title": "冀东事变",
+      "description": "1935年日本扶植伪政权“冀东防共自治政府”，企图分裂华北。事件表明日本侵略已由东北扩展至华北，并直接威胁中国本部。",
+      "date_text": "一九三五年十一月",
+      "start_date": "1935-11-25",
+      "end_date": "1935-12-25",
+      "location": "河北冀东",
+      "importance": 4,
+      "quote": "最近的冀东事变和外交谈判，显示了这个方向，威胁到了全国人民的生存。"
+    },
+    {
+      "article_id": 11,
+      "title": "一二九运动",
+      "description": "北平学生在共产党领导下发起大规模抗日爱国运动，提出停止内战一致抗日等口号。运动迅速扩展全国，推动了抗日民族统一战线形成。",
+      "date_text": "一九三五年十二月九日",
+      "start_date": "1935-12-09",
+      "end_date": "1935-12-16",
+      "location": "北平",
+      "importance": 5,
+      "quote": "青年学生和城市小资产阶级，现在不是已经发动了一个广大的反日运动吗？"
+    },
+    {
+      "article_id": 11,
+      "title": "红军长征",
+      "description": "中央红军及其他主力红军进行战略转移，突破国民党围追堵截，到达陕北。长征保存了革命力量，并扩大了共产党影响。",
+      "date_text": "一九三四年至一九三五年",
+      "start_date": "1934-10-01",
+      "end_date": "1935-10-31",
+      "location": "中国十一个省",
+      "importance": 5,
+      "quote": "长征是历史纪录上的第一次，长征是宣言书，长征是宣传队，长征是播种机。"
+    },
+    {
+      "article_id": 11,
+      "title": "福建事变",
+      "description": "十九路军在福建成立“中华共和国人民革命政府”，公开反蒋并与红军达成妥协。事件体现了国民党内部在民族危机中的分化。",
+      "date_text": "一九三三年十一月",
+      "start_date": "1933-11-01",
+      "end_date": "1934-01-31",
+      "location": "福建",
+      "importance": 4,
+      "quote": "他们把本来向着红军的火力掉转去向着日本帝国主义和蒋介石。"
+    },
+    {
+      "article_id": 11,
+      "title": "宁都起义",
+      "description": "国民党第二十六路军在共产党影响下举行武装起义并加入红军。事件表明国民党军内部也可能发生革命性分化。",
+      "date_text": "一九三一年十二月",
+      "start_date": "1931-12-01",
+      "end_date": "1931-12-31",
+      "location": "江西宁都",
+      "importance": 4,
+      "quote": "第二十六路军，不是在一九三一年十二月举行了宁都起义，变成了红军吗？"
+    },
+    {
+      "article_id": 11,
+      "title": "瓦窑堡会议",
+      "description": "中共中央在瓦窑堡召开政治局会议，批评关门主义，正式确立抗日民族统一战线策略。会议标志着党的政治路线重大调整。",
+      "date_text": "一九三五年十二月",
+      "start_date": "1935-12-17",
+      "end_date": "1935-12-25",
+      "location": "陕北瓦窑堡",
+      "importance": 5,
+      "quote": "决定了建立抗日民族统一战线的策略，是一次极关重要的会议。"
+    }
+  ],
+  "ideas": [
+    {
+      "article_id": 11,
+      "name": "统一战线",
+      "summary": "文章提出必须建立广泛的抗日民族统一战线，以反对日本帝国主义为中心目标。共产党不仅要联合工农群众，还要联合民族资产阶级、小资产阶级以及一切可能抗日的力量。统一战线是应对民族危机和力量对比现实的必然选择。关门主义会导致革命孤立和失败。",
+      "category": "统一战线",
+      "quote": "党的基本的策略任务是什么呢？不是别的，就是建立广泛的民族革命统一战线。"
+    },
+    {
+      "article_id": 11,
+      "name": "反对关门主义",
+      "summary": "毛泽东系统批判了党内把民族资产阶级一概视为永久反革命的错误倾向。他指出革命阵线和反革命阵线会随形势变化而变化。关门主义会把潜在同盟者推向敌人一边，削弱革命力量。",
+      "category": "党的建设",
+      "quote": "关门主义在实际上是日本帝国主义和汉奸卖国贼的忠顺的奴仆。"
+    },
+    {
+      "article_id": 11,
+      "name": "人民共和国",
+      "summary": "文章提出以人民共和国代替工农共和国口号，以适应抗日民族统一战线的新形势。人民共和国既以工农为主体，也允许一切反帝反封建阶级参与政权。它在民主革命阶段保护民族工商业，而不是立即实行社会主义革命。",
+      "category": "革命策略",
+      "quote": "我们的政府不但是代表工农的，而且是代表民族的。"
+    },
+    {
+      "article_id": 11,
+      "name": "革命持久性",
+      "summary": "毛泽东认为中国革命战争具有长期性，这是由帝国主义力量和中国革命发展不平衡决定的。革命不可能速胜，需要长期积累力量和正确策略。既要反对急躁冒险，也要保持革命进攻精神。",
+      "category": "革命策略",
+      "quote": "中国革命战争还是持久战。"
+    },
+    {
+      "article_id": 11,
+      "name": "共产党领导",
+      "summary": "文章强调共产党和红军是抗日民族统一战线中的核心力量。只有共产党领导，统一战线才能避免被反革命势力瓦解。红军长征和革命根据地的存在，是革命继续发展的根本保障。",
+      "category": "党的建设",
+      "quote": "共产党和红军在民族统一战线中的领导作用。"
+    },
+    {
+      "article_id": 11,
+      "name": "国际援助",
+      "summary": "文章指出中国革命是世界反法西斯斗争的一部分。中国抗日战争不仅依靠自力更生，也需要国际革命力量特别是苏联的援助。义战之间互相支持，是列宁主义的重要原则。",
+      "category": "国际形势",
+      "quote": "我们的抗日战争需要国际人民的援助，首先是苏联人民的援助。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党主要领导人，提出抗日民族统一战线和人民共和国策略。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "概念",
+      "description": "文章中的主要敌人，企图将中国变为日本独占殖民地。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，被文章视为地主买办阶级总代表。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命和抗日民族统一战线的领导核心。"
+    },
+    {
+      "name": "红军",
+      "type": "组织",
+      "description": "共产党领导的革命武装力量，完成长征并成为抗日核心力量。"
+    },
+    {
+      "name": "民族资产阶级",
+      "type": "概念",
+      "description": "在民族危机下可能参加抗日统一战线的阶级力量。"
+    },
+    {
+      "name": "长征",
+      "type": "事件",
+      "description": "中国工农红军进行的大规模战略转移，保存并扩大了革命力量。"
+    },
+    {
+      "name": "瓦窑堡会议",
+      "type": "事件",
+      "description": "中共中央确立抗日民族统一战线策略的重要会议。"
+    },
+    {
+      "name": "一二九运动",
+      "type": "事件",
+      "description": "1935年爆发的全国性爱国学生运动，推动抗日高潮。"
+    },
+    {
+      "name": "人民共和国",
+      "type": "概念",
+      "description": "毛泽东提出的新型革命政权形式，代表反帝反封建各阶层利益。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 11,
+      "target_type": "Idea",
+      "target_id": 1,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 11,
+      "target_type": "Idea",
+      "target_id": 2,
+      "relation_type": "批判"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 11,
+      "target_type": "Idea",
+      "target_id": 3,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 11,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "反对"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 11,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "毛泽东",
+      "target_type": "Idea",
+      "target_id": 1,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "中国共产党",
+      "target_type": "Entity",
+      "target_id": "红军",
+      "relation_type": "领导"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "代表"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 4,
+      "target_type": "Entity",
+      "target_id": "红军",
+      "relation_type": "属于"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 7,
+      "target_type": "Idea",
+      "target_id": 1,
+      "relation_type": "影响"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "民族资产阶级",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 3,
+      "target_type": "Entity",
+      "target_id": "人民共和国",
+      "relation_type": "代表"
+    }
+  ]
+}

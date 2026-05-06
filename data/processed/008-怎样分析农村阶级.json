@@ -1,0 +1,213 @@
+{
+  "article": {
+    "id": 8,
+    "title": "怎样分析农村阶级",
+    "volume": "第一卷",
+    "date_text": "一九三三年十月",
+    "start_date": "1933-10-01",
+    "end_date": "1933-10-31",
+    "source": "中央工农民主政府土地改革文件"
+  },
+  "events": [
+    {
+      "article_id": 8,
+      "title": "土地改革中的阶级划分工作",
+      "description": "在土地改革过程中，各地需要明确划分农村阶级成分，以便正确处理土地分配问题。由于实践中出现了偏差，中央要求建立统一标准。本文即作为农村阶级划分的重要依据被提出。",
+      "date_text": "一九三三年十月",
+      "start_date": "1933-10-01",
+      "end_date": "1933-10-31",
+      "location": "中央革命根据地",
+      "importance": 5,
+      "quote": "作为划分农村阶级成分的标准。"
+    },
+    {
+      "article_id": 8,
+      "title": "中央工农民主政府通过阶级划分标准",
+      "description": "中央工农民主政府正式通过该文件，将其作为土地改革与阶级划分的政策依据。这标志着苏区土地政策进一步制度化和规范化。",
+      "date_text": "一九三三年十月",
+      "start_date": "1933-10-01",
+      "end_date": "1933-10-31",
+      "location": "中华苏维埃共和国中央政府",
+      "importance": 5,
+      "quote": "曾由当时中央工农民主政府通过。"
+    },
+    {
+      "article_id": 8,
+      "title": "苏区纠正土地改革偏向",
+      "description": "土地改革过程中，部分地区存在错误划分阶级、扩大打击范围等问题。本文通过细化地主、富农、中农、贫农和工人的标准，纠正实际工作中的偏差。",
+      "date_text": "一九三三年十月",
+      "start_date": "1933-10-01",
+      "end_date": "1933-10-31",
+      "location": "中央革命根据地",
+      "importance": 4,
+      "quote": "为纠正在土地改革工作中发生的偏向、正确地解决土地问题而写的。"
+    },
+    {
+      "article_id": 8,
+      "title": "农村阶级分析体系形成",
+      "description": "文章系统提出地主、富农、中农、贫农和工人的划分标准，构成中国共产党农村阶级分析的重要框架。该体系后来长期影响中国农村社会调查与土地政策。",
+      "date_text": "一九三三年十月",
+      "start_date": "1933-10-01",
+      "end_date": "1933-10-31",
+      "location": "中国农村地区",
+      "importance": 5,
+      "quote": "贫农一般要出卖小部分的劳动力，这是区别中农和贫农的主要标准。"
+    }
+  ],
+  "ideas": [
+    {
+      "article_id": 8,
+      "name": "阶级划分标准",
+      "summary": "文章提出农村阶级必须依据经济关系与生活来源进行划分，而不是单纯依据财富数量。核心标准在于是否依靠剥削他人劳动生存。地主和富农属于剥削阶级，中农、贫农和工人则主要依靠自身劳动。该方法强调经济结构分析而非道德评价。",
+      "category": "阶级分析",
+      "quote": "占有土地，自己不劳动，或只有附带的劳动，而靠剥削农民为生的，叫做地主。"
+    },
+    {
+      "article_id": 8,
+      "name": "剥削关系分析",
+      "summary": "文章强调判断阶级的关键在于是否存在稳定的剥削关系。地主主要依靠地租，高利贷者依靠债利，富农则兼有雇佣劳动与地租剥削。剥削收入是否构成主要收入来源，是区分阶级的重要依据。",
+      "category": "阶级分析",
+      "quote": "富农的剥削是经常的，许多富农的剥削收入在其全部收入中并且是主要的。"
+    },
+    {
+      "article_id": 8,
+      "name": "劳动决定属性",
+      "summary": "文章认为劳动参与程度是划分农村阶级的重要维度。中农和贫农主要依靠自身劳动维持生活，而工人则完全依靠出卖劳动力。劳动与剥削的比例关系决定其社会属性。",
+      "category": "阶级分析",
+      "quote": "中农的生活来源全靠自己劳动，或主要靠自己劳动。"
+    },
+    {
+      "article_id": 8,
+      "name": "贫农中农区分",
+      "summary": "文章特别指出中农与贫农的界限不在于土地多少，而在于是否需要经常出售劳动力。贫农由于生产资料不足，需要通过出卖部分劳动力维持生计；中农则通常能够依靠自身经营维持生活。",
+      "category": "农民问题",
+      "quote": "贫农一般要出卖小部分的劳动力，这是区别中农和贫农的主要标准。"
+    },
+    {
+      "article_id": 8,
+      "name": "地主政治代表",
+      "summary": "文章不仅从经济层面定义地主，还指出军阀、官僚、土豪与劣绅是地主阶级在政治上的代表。这体现了经济阶级与政治统治之间的联系，强调地主阶级具有政治压迫性质。",
+      "category": "阶级分析",
+      "quote": "军阀、官僚、土豪、劣绅是地主阶级的政治代表。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党领导人，本文作者，提出农村阶级分析标准以指导土地改革。"
+    },
+    {
+      "name": "中央工农民主政府",
+      "type": "组织",
+      "description": "中华苏维埃共和国中央政权机构，负责通过和推行土地改革相关政策。"
+    },
+    {
+      "name": "地主",
+      "type": "概念",
+      "description": "依靠地租、高利贷等方式剥削农民为主要生活来源的农村阶级。"
+    },
+    {
+      "name": "富农",
+      "type": "概念",
+      "description": "占有较多生产资料并存在经常性剥削行为的农村阶级。"
+    },
+    {
+      "name": "中农",
+      "type": "概念",
+      "description": "主要依靠自身劳动维持生活，一般不剥削他人的农村劳动者。"
+    },
+    {
+      "name": "贫农",
+      "type": "概念",
+      "description": "生产资料不足，需要租地和部分出售劳动力维持生活的农村阶层。"
+    },
+    {
+      "name": "工人",
+      "type": "概念",
+      "description": "主要或完全依靠出卖劳动力为生的劳动群体，包括雇农。"
+    },
+    {
+      "name": "土地改革",
+      "type": "事件",
+      "description": "中国共产党在革命根据地推行的农村土地重新分配运动。"
+    },
+    {
+      "name": "土豪劣绅",
+      "type": "概念",
+      "description": "农村中依附地主阶级、控制地方政治并压迫农民的势力。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 8,
+      "target_type": "Idea",
+      "target_id": 0,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 8,
+      "target_type": "Entity",
+      "target_id": "土地改革",
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 8,
+      "target_type": "Entity",
+      "target_id": "地主",
+      "relation_type": "批判"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 8,
+      "target_type": "Entity",
+      "target_id": "富农",
+      "relation_type": "批判"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "中央工农民主政府",
+      "target_type": "Article",
+      "target_id": 8,
+      "relation_type": "支持"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "毛泽东",
+      "target_type": "Article",
+      "target_id": 8,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Entity",
+      "source_id": "土豪劣绅",
+      "target_type": "Entity",
+      "target_id": "地主",
+      "relation_type": "代表"
+    },
+    {
+      "source_type": "Event",
+      "source_id": 1,
+      "target_type": "Entity",
+      "target_id": "土地改革",
+      "relation_type": "属于"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 0,
+      "target_type": "Entity",
+      "target_id": "地主",
+      "relation_type": "影响"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 3,
+      "target_type": "Entity",
+      "target_id": "贫农",
+      "relation_type": "影响"
+    }
+  ]
+}

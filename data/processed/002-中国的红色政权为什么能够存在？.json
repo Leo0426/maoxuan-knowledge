@@ -1,0 +1,235 @@
+{
+    "article": {
+        "id": 2,
+        "title": "中国的红色政权为什么能够存在？",
+        "volume": "第一卷",
+        "date_text": "一九二八年十月五日",
+        "start_date": "1928-10-05",
+        "end_date": null,
+        "source": null
+    },
+    "events": [
+        {
+            "article_id": 2,
+            "title": "资产阶级民主革命失败",
+            "description": "1926年至1927年的革命未能坚持无产阶级领导权，被买办豪绅阶级篡夺方向，转向反革命。工农及民族资产阶级均遭受打击。革命进入低潮但未终结。",
+            "date_text": "一九二六年至一九二七年",
+            "start_date": "1926-01-01",
+            "end_date": "1927-12-31",
+            "location": "中国",
+            "importance": 5,
+            "quote": "资产阶级民主革命乃遭遇到暂时的失败。"
+        },
+        {
+            "article_id": 2,
+            "title": "济南惨案",
+            "description": "1928年5月日本侵略军在济南进行大规模屠杀，造成数千中国军民死亡。该事件加剧民族矛盾，推动革命情绪发展。成为反帝斗争的重要节点。",
+            "date_text": "一九二八年五月",
+            "start_date": "1928-05-01",
+            "end_date": "1928-05-31",
+            "location": "济南",
+            "importance": 5,
+            "quote": "在一九二八年五月济南惨案以后，是一天一天在发展的。"
+        },
+        {
+            "article_id": 2,
+            "title": "军阀混战与分裂",
+            "description": "蒋桂冯阎等新军阀在北方胜利后迅速分裂，内部矛盾激化并酝酿战争。军阀割据反映帝国主义之间的矛盾。持续战争削弱中央统治。",
+            "date_text": "一九二八年前后",
+            "start_date": "1928-01-01",
+            "end_date": null,
+            "location": "中国",
+            "importance": 4,
+            "quote": "今天的暂时的妥协，即酝酿着明天的更大的战争。"
+        },
+        {
+            "article_id": 2,
+            "title": "湘赣边界红色割据形成",
+            "description": "在白色政权分裂背景下，湘赣边界形成工农武装割据。依托群众基础和地形优势逐步扩大。成为红色政权存在的重要实例。",
+            "date_text": "一九二八年",
+            "start_date": "1928-01-01",
+            "end_date": null,
+            "location": "湘赣边界",
+            "importance": 5,
+            "quote": "湘赣边界的割据，就是这许多小块中间的一小块。"
+        },
+        {
+            "article_id": 2,
+            "title": "井冈山会师与反进剿作战",
+            "description": "毛泽东与朱德部队会师后组建红四军，多次击败国民党军队进剿。巩固了根据地并扩大影响。体现武装斗争的有效性。",
+            "date_text": "一九二八年四月至七月",
+            "start_date": "1928-04-01",
+            "end_date": "1928-07-31",
+            "location": "井冈山及周边",
+            "importance": 5,
+            "quote": "使割据地区一天一天扩大，土地革命一天一天深入。"
+        },
+        {
+            "article_id": 2,
+            "title": "八月失败",
+            "description": "由于部分领导错误判断形势，采取冒进和分兵策略，导致湘赣边界与湘南斗争失败。随后通过纠正政策逐步恢复。该事件反映战略判断的重要性。",
+            "date_text": "一九二八年八月",
+            "start_date": "1928-08-01",
+            "end_date": "1928-08-31",
+            "location": "湘赣边界",
+            "importance": 4,
+            "quote": "八月失败，完全在于一部分同志不明了当时正是统治阶级暂时稳定的时候。"
+        }
+    ],
+    "ideas": [
+        {
+            "article_id": 2,
+            "name": "红色政权存在条件",
+            "summary": "红色政权的产生依赖半殖民地中国的特殊结构，即帝国主义间接统治与军阀割据并存。白色政权之间的战争为红色区域提供生存空间。革命基础需来自曾经历民主革命洗礼的地区。还必须具备群众基础与革命传统。",
+            "category": "革命策略",
+            "quote": "这种奇事的发生，有其独特的原因。"
+        },
+        {
+            "article_id": 2,
+            "name": "工农武装割据",
+            "summary": "革命必须依靠工农武装力量建立割据政权。正式红军是维持政权的核心力量。地方武装只能辅助，无法对抗正规军。武装斗争与政权建设必须统一推进。",
+            "category": "军事思想",
+            "quote": "“工农武装割据”的思想，是共产党和割据地方的工农群众必须充分具备的一个重要的思想。"
+        },
+        {
+            "article_id": 2,
+            "name": "革命形势决定论",
+            "summary": "红色政权能否长期存在取决于全国革命形势的发展。若革命持续推进，则局部政权将不断壮大。若形势停滞，则难以维持。局部与整体革命具有内在联系。",
+            "category": "哲学方法论",
+            "quote": "小地方民众政权之能否长期地存在，则决定于全国革命形势是否向前发展。"
+        },
+        {
+            "article_id": 2,
+            "name": "正确路线的重要性",
+            "summary": "革命胜负与党的政策和路线密切相关。正确策略可在劣势中取得胜利。错误判断会导致失败甚至全局损失。领导层必须结合实际制定策略。",
+            "category": "党的建设",
+            "quote": "原因就在于湘赣边界的共产党……的政策是正确的。"
+        },
+        {
+            "article_id": 2,
+            "name": "根据地建设思想",
+            "summary": "军事根据地是革命生存与发展的基础。需要完善防御、保障物资供应、建设医疗体系。根据地不仅是军事据点，也是政治与社会组织中心。",
+            "category": "军事思想",
+            "quote": "巩固此根据地的方法：第一，修筑完备的工事。"
+        }
+    ],
+    "entities": [
+        {
+            "name": "毛泽东",
+            "type": "人物",
+            "description": "中国共产党主要领导人，提出红色政权理论与工农武装割据思想。"
+        },
+        {
+            "name": "蒋介石",
+            "type": "人物",
+            "description": "国民党主要领导人之一，新军阀代表人物。"
+        },
+        {
+            "name": "张作霖",
+            "type": "人物",
+            "description": "奉系军阀首领，北方重要军阀势力。"
+        },
+        {
+            "name": "湘赣边界",
+            "type": "地点",
+            "description": "湖南与江西交界地区，红色政权的重要根据地。"
+        },
+        {
+            "name": "井冈山",
+            "type": "地点",
+            "description": "位于罗霄山脉中段，是早期革命根据地核心区域。"
+        },
+        {
+            "name": "红军",
+            "type": "组织",
+            "description": "中国共产党领导的武装力量，是革命政权的核心支柱。"
+        },
+        {
+            "name": "国民党",
+            "type": "组织",
+            "description": "当时中国主要执政党之一，代表资产阶级与地主阶级利益。"
+        },
+        {
+            "name": "帝国主义",
+            "type": "概念",
+            "description": "列强对中国进行经济与政治控制的国际势力。"
+        },
+        {
+            "name": "买办豪绅阶级",
+            "type": "概念",
+            "description": "依附帝国主义的中国统治阶级，压迫工农群众。"
+        }
+    ],
+    "relations": [
+        {
+            "source_type": "Article",
+            "source_id": 2,
+            "target_type": "Idea",
+            "target_id": 1,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 2,
+            "target_type": "Idea",
+            "target_id": 2,
+            "relation_type": "提出"
+        },
+        {
+            "source_type": "Article",
+            "source_id": 2,
+            "target_type": "Event",
+            "target_id": 2,
+            "relation_type": "引用"
+        },
+        {
+            "source_type": "Event",
+            "source_id": 4,
+            "target_type": "Entity",
+            "target_id": "湘赣边界",
+            "relation_type": "发生于"
+        },
+        {
+            "source_type": "Event",
+            "source_id": 5,
+            "target_type": "Entity",
+            "target_id": "井冈山",
+            "relation_type": "发生于"
+        },
+        {
+            "source_type": "Entity",
+            "source_id": "毛泽东",
+            "target_type": "Entity",
+            "target_id": "红军",
+            "relation_type": "领导"
+        },
+        {
+            "source_type": "Entity",
+            "source_id": "蒋介石",
+            "target_type": "Entity",
+            "target_id": "国民党",
+            "relation_type": "代表"
+        },
+        {
+            "source_type": "Entity",
+            "source_id": "国民党",
+            "target_type": "Entity",
+            "target_id": "买办豪绅阶级",
+            "relation_type": "代表"
+        },
+        {
+            "source_type": "Entity",
+            "source_id": "帝国主义",
+            "target_type": "Entity",
+            "target_id": "国民党",
+            "relation_type": "支持"
+        },
+        {
+            "source_type": "Idea",
+            "source_id": 2,
+            "target_type": "Entity",
+            "target_id": "红军",
+            "relation_type": "支持"
+        }
+    ]
+}

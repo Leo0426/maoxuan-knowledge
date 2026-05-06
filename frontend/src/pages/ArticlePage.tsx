@@ -4,7 +4,30 @@ import ReactMarkdown from "react-markdown";
 
 import { api } from "../api/client";
 import ArticleTOC from "../components/ArticleTOC";
-import type { Article } from "../types";
+import type { Article, ArticleSummary } from "../types";
+
+function stripMarkdown(text: string): string {
+  return text
+    .replace(/^#+\s*/gm, "")
+    .replace(/^>\s*/gm, "")
+    .replace(/\*\*(.*?)\*\*/g, "$1")
+    .replace(/\*(.*?)\*/g, "$1")
+    .replace(/`([^`]+)`/g, "$1")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/^\s*[-*+]\s+/gm, "")
+    .replace(/\n+/g, " ")
+    .trim();
+}
+
+function groupByVolume(articles: Article[]): { volume: string; items: Article[] }[] {
+  const map = new Map<string, Article[]>();
+  for (const a of articles) {
+    const vol = a.volume ?? "其他";
+    if (!map.has(vol)) map.set(vol, []);
+    map.get(vol)!.push(a);
+  }
+  return Array.from(map.entries()).map(([volume, items]) => ({ volume, items }));
+}
 
 export default function ArticlePage() {
   const { id } = useParams();
@@ -12,6 +35,7 @@ export default function ArticlePage() {
   const currentArticleId = Number(id ?? "0") || 0;
   const [articles, setArticles] = useState<Article[]>([]);
   const [article, setArticle] = useState<Article | null>(null);
+  const [tocList, setTocList] = useState<ArticleSummary[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
 
@@ -38,9 +62,22 @@ export default function ArticlePage() {
     }
   }, [id]);
 
+  useEffect(() => {
+    if (id) {
+      api.articleToc().then(setTocList);
+    }
+  }, [id]);
+
   function handleSelectArticle(nextId: number) {
     navigate(`/articles/${nextId}`);
   }
+
+  const currentIndex = tocList.findIndex((a) => a.id === currentArticleId);
+  const prevArticle = currentIndex > 0 ? tocList[currentIndex - 1] : null;
+  const nextArticle =
+    currentIndex >= 0 && currentIndex < tocList.length - 1
+      ? tocList[currentIndex + 1]
+      : null;
 
   if (id) {
     return (
@@ -55,14 +92,48 @@ export default function ArticlePage() {
             <article className="panel article-detail">
               <div className="eyebrow">文章</div>
               <h1>{article?.title ?? "加载中"}</h1>
-              <div className="meta">
-                {article?.volume}
-                {article?.period ? ` · ${article.period}` : ""}
-                {article?.date_text ? ` · ${article.date_text}` : ""}
+              <div className="article-detail-meta">
+                {article?.volume && (
+                  <span className="article-meta-chip">{article.volume}</span>
+                )}
+                {article?.period && (
+                  <span className="article-meta-chip">{article.period}</span>
+                )}
+                {article?.date_text && (
+                  <span className="article-meta-date">{article.date_text}</span>
+                )}
               </div>
               <div className="article-body">
                 <ReactMarkdown>{article?.content ?? ""}</ReactMarkdown>
               </div>
+              {(prevArticle || nextArticle) && (
+                <nav className="article-nav">
+                  <div>
+                    {prevArticle && (
+                      <button
+                        type="button"
+                        className="article-nav-btn"
+                        onClick={() => navigate(`/articles/${prevArticle.id}`)}
+                      >
+                        <span className="article-nav-label">← 上一篇</span>
+                        <span className="article-nav-title">{prevArticle.title}</span>
+                      </button>
+                    )}
+                  </div>
+                  <div>
+                    {nextArticle && (
+                      <button
+                        type="button"
+                        className="article-nav-btn article-nav-btn--next"
+                        onClick={() => navigate(`/articles/${nextArticle.id}`)}
+                      >
+                        <span className="article-nav-label">下一篇 →</span>
+                        <span className="article-nav-title">{nextArticle.title}</span>
+                      </button>
+                    )}
+                  </div>
+                </nav>
+              )}
             </article>
           )}
         </div>
@@ -71,12 +142,22 @@ export default function ArticlePage() {
   }
 
   if (loading) {
-    return <div className="page-inner"><div className="state-panel">正在读取文章档案...</div></div>;
+    return (
+      <div className="page-inner">
+        <div className="state-panel">正在读取文章档案...</div>
+      </div>
+    );
   }
 
   if (error) {
-    return <div className="page-inner"><div className="state-panel error-state">{error}</div></div>;
+    return (
+      <div className="page-inner">
+        <div className="state-panel error-state">{error}</div>
+      </div>
+    );
   }
+
+  const groups = groupByVolume(articles);
 
   return (
     <div className="page-with-toc">
@@ -94,21 +175,36 @@ export default function ArticlePage() {
             <span>篇</span>
           </div>
         </section>
-        <section className="stack">
-          {articles.map((item) => (
-            <Link className="item-card" to={`/articles/${item.id}`} key={item.id}>
-              <h3>{item.title}</h3>
-              <p>{item.content.replace(/^>\s*/gm, "").replace(/#+\s*/g, "").slice(0, 120)}…</p>
-              <div className="meta">
-                {item.volume}
-                {item.period ? ` · ${item.period}` : ""}
-                {item.date_text ? ` · ${item.date_text}` : ""}
-              </div>
-            </Link>
-          ))}
-        </section>
-        {articles.length === 0 && <div className="state-panel">暂无文章数据</div>}
-        </div>
+        {groups.map(({ volume, items }) => (
+          <section key={volume} className="article-volume-group">
+            <div className="article-volume-header">{volume}</div>
+            <div className="stack">
+              {items.map((item, idx) => (
+                <Link
+                  className="item-card article-list-card"
+                  to={`/articles/${item.id}`}
+                  key={item.id}
+                >
+                  <div className="article-list-card-head">
+                    <h3>{item.title}</h3>
+                    <span className="article-list-num">
+                      {String(idx + 1).padStart(2, "0")}
+                    </span>
+                  </div>
+                  <p>{stripMarkdown(item.content).slice(0, 120)}…</p>
+                  <div className="meta">
+                    {item.period ?? ""}
+                    {item.date_text ? ` · ${item.date_text}` : ""}
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        ))}
+        {articles.length === 0 && (
+          <div className="state-panel">暂无文章数据</div>
+        )}
+      </div>
     </div>
   );
 }
